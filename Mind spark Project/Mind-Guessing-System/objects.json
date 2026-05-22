@@ -1,0 +1,8281 @@
+[
+  {
+    "name": "Apple",
+    "attrs": [
+      "food",
+      "fruit",
+      "sweet_taste",
+      "red",
+      "green_color",
+      "edible_raw",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy"
+    ]
+  },
+  {
+    "name": "Banana",
+    "attrs": [
+      "food",
+      "fruit",
+      "soft_texture",
+      "yellow_color",
+      "high_potassium",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Orange",
+    "attrs": [
+      "food",
+      "fruit",
+      "citrus",
+      "orange_color",
+      "vitamin_c",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Grapes",
+    "attrs": [
+      "food",
+      "fruit",
+      "small_round",
+      "green",
+      "black_color",
+      "juicy",
+      "plant_based",
+      "round",
+      "sweet",
+      "raw"
+    ]
+  },
+  {
+    "name": "Mango",
+    "attrs": [
+      "food",
+      "fruit",
+      "sweet_taste",
+      "tropical",
+      "yellow",
+      "orange",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy"
+    ]
+  },
+  {
+    "name": "Pineapple",
+    "attrs": [
+      "food",
+      "fruit",
+      "tropical",
+      "spiky_skin",
+      "juicy_sweet",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Papaya",
+    "attrs": [
+      "food",
+      "fruit",
+      "orange_flesh",
+      "soft_texture",
+      "tropical",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Watermelon",
+    "attrs": [
+      "food",
+      "fruit",
+      "large_size",
+      "green_rind",
+      "red_flesh",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Kiwi",
+    "attrs": [
+      "food",
+      "fruit",
+      "brown_skin",
+      "green_inside",
+      "tangy",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Strawberry",
+    "attrs": [
+      "food",
+      "fruit",
+      "red_color",
+      "juicy",
+      "sweet_tart",
+      "plant_based",
+      "round",
+      "sweet",
+      "raw",
+      "seeds_present"
+    ]
+  },
+  {
+    "name": "Blueberry",
+    "attrs": [
+      "food",
+      "fruit",
+      "blue_color",
+      "small_size",
+      "antioxidant_rich",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Guava",
+    "attrs": [
+      "food",
+      "fruit",
+      "green_skin",
+      "pink",
+      "white_inside",
+      "tropical",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy"
+    ]
+  },
+  {
+    "name": "Pomegranate",
+    "attrs": [
+      "food",
+      "fruit",
+      "red_color",
+      "seeds_inside",
+      "juicy",
+      "plant_based",
+      "round",
+      "sweet",
+      "raw",
+      "seeds_present"
+    ]
+  },
+  {
+    "name": "Pear",
+    "attrs": [
+      "food",
+      "fruit",
+      "green",
+      "yellow",
+      "soft_texture",
+      "sweet",
+      "plant_based",
+      "round",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Lemon",
+    "attrs": [
+      "food",
+      "fruit",
+      "citrus",
+      "sour_taste",
+      "yellow_color",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Coconut",
+    "attrs": [
+      "food",
+      "fruit",
+      "hard_shell",
+      "white_inside",
+      "tropical",
+      "plant_based",
+      "round",
+      "sweet",
+      "juicy",
+      "raw"
+    ]
+  },
+  {
+    "name": "Lychee",
+    "attrs": [
+      "food",
+      "fruit",
+      "sweet",
+      "white_flesh",
+      "red_skin",
+      "plant_based",
+      "round",
+      "juicy",
+      "raw",
+      "seeds_present"
+    ]
+  },
+  {
+    "name": "Peach",
+    "attrs": [
+      "food",
+      "fruit",
+      "soft_texture",
+      "orange_color",
+      "sweet",
+      "plant_based",
+      "round",
+      "juicy",
+      "raw",
+      "seeds_present"
+    ]
+  },
+  {
+    "name": "Plum",
+    "attrs": [
+      "food",
+      "fruit",
+      "purple_color",
+      "juicy",
+      "sweet_tart",
+      "plant_based",
+      "round",
+      "sweet",
+      "raw",
+      "seeds_present"
+    ]
+  },
+  {
+    "name": "Apricot",
+    "attrs": [
+      "food",
+      "fruit",
+      "orange_color",
+      "small_size",
+      "sweet",
+      "plant_based",
+      "round",
+      "juicy",
+      "raw",
+      "seeds_present"
+    ]
+  },
+  {
+    "name": "Carrot",
+    "attrs": [
+      "food",
+      "vegetable",
+      "orange_color",
+      "root_vegetable",
+      "crunchy",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Potato",
+    "attrs": [
+      "food",
+      "vegetable",
+      "starchy",
+      "brown_skin",
+      "used_in_cooking",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Tomato",
+    "attrs": [
+      "food",
+      "vegetable",
+      "red_color",
+      "juicy",
+      "used_in_salad",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Onion",
+    "attrs": [
+      "food",
+      "vegetable",
+      "layers_inside",
+      "pungent_aroma",
+      "used_in_cooking",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "attrs": [
+      "food",
+      "vegetable",
+      "green_color",
+      "watery",
+      "used_in_salad",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Brinjal",
+    "attrs": [
+      "food",
+      "vegetable",
+      "purple_color",
+      "soft_inside",
+      "cooked",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "edible"
+    ]
+  },
+  {
+    "name": "Cauliflower",
+    "attrs": [
+      "food",
+      "vegetable",
+      "white_color",
+      "florets",
+      "cooked",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "edible"
+    ]
+  },
+  {
+    "name": "Broccoli",
+    "attrs": [
+      "food",
+      "vegetable",
+      "green_florets",
+      "healthy",
+      "fiber_rich",
+      "plant_based",
+      "green",
+      "raw",
+      "cooked",
+      "edible"
+    ]
+  },
+  {
+    "name": "Pumpkin",
+    "attrs": [
+      "food",
+      "vegetable",
+      "orange_color",
+      "hard_shell",
+      "cooked",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "edible"
+    ]
+  },
+  {
+    "name": "Bitter_Gourd",
+    "attrs": [
+      "food",
+      "vegetable",
+      "green_color",
+      "bitter_taste",
+      "rough_surface",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Bottle_Gourd",
+    "attrs": [
+      "food",
+      "vegetable",
+      "light_green",
+      "long_shape",
+      "cooked",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "edible"
+    ]
+  },
+  {
+    "name": "Spinach",
+    "attrs": [
+      "food",
+      "vegetable",
+      "green_leaves",
+      "soft_texture",
+      "iron_rich",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Beetroot",
+    "attrs": [
+      "food",
+      "vegetable",
+      "red_color",
+      "root_vegetable",
+      "earthy_taste",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Radish",
+    "attrs": [
+      "food",
+      "vegetable",
+      "white",
+      "red",
+      "crunchy",
+      "root_vegetable",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw"
+    ]
+  },
+  {
+    "name": "Lady_Finger",
+    "attrs": [
+      "food",
+      "vegetable",
+      "green_color",
+      "slimy_texture",
+      "cooked",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw",
+      "edible"
+    ]
+  },
+  {
+    "name": "Cabbage",
+    "attrs": [
+      "food",
+      "vegetable",
+      "layered_leaves",
+      "green",
+      "purple",
+      "cooked",
+      "plant_based",
+      "fiber_rich",
+      "raw",
+      "edible"
+    ]
+  },
+  {
+    "name": "Corn",
+    "attrs": [
+      "food",
+      "vegetable",
+      "yellow_kernels",
+      "sweet",
+      "fiber_rich",
+      "plant_based",
+      "green",
+      "raw",
+      "cooked",
+      "edible"
+    ]
+  },
+  {
+    "name": "Turnip",
+    "attrs": [
+      "food",
+      "vegetable",
+      "white",
+      "purple",
+      "root_vegetable",
+      "mild_taste",
+      "plant_based",
+      "fiber_rich",
+      "green",
+      "raw"
+    ]
+  },
+  {
+    "name": "Green_Beans",
+    "attrs": [
+      "food",
+      "vegetable",
+      "green_color",
+      "long_shape",
+      "fiber_rich",
+      "plant_based",
+      "green",
+      "raw",
+      "cooked",
+      "edible"
+    ]
+  },
+  {
+    "name": "Capsicum",
+    "attrs": [
+      "food",
+      "vegetable",
+      "green",
+      "red",
+      "crunchy",
+      "used_in_cooking",
+      "plant_based",
+      "fiber_rich",
+      "raw",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Lettuce",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "light_green_color",
+      "crisp_texture",
+      "salad_item"
+    ]
+  },
+  {
+    "name": "Kale",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "dark_green",
+      "curly_leaves",
+      "nutrient_dense"
+    ]
+  },
+  {
+    "name": "Swiss_Chard",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "colorful_stems",
+      "green_leaves",
+      "fiber_rich"
+    ]
+  },
+  {
+    "name": "Mustard_Greens",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "sharp_flavor",
+      "green_leaves",
+      "nutrient_rich"
+    ]
+  },
+  {
+    "name": "Collard_Greens",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "broad_leaves",
+      "green_color",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Fenugreek_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "aromatic",
+      "green_leaves",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Coriander_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "aromatic",
+      "used_as_garnish",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Mint_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "fragrant",
+      "cooling_effect",
+      "green_color"
+    ]
+  },
+  {
+    "name": "Celery_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "fibrous",
+      "aromatic",
+      "green_color"
+    ]
+  },
+  {
+    "name": "Spring_Onion_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "long_green",
+      "used_in_soups",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Arugula",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "peppery_flavor",
+      "small_leaves",
+      "salad_item"
+    ]
+  },
+  {
+    "name": "Watercress",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "peppery_taste",
+      "small_leaves",
+      "nutritious"
+    ]
+  },
+  {
+    "name": "Parsley",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "aromatic",
+      "garnish_item",
+      "green_leaves"
+    ]
+  },
+  {
+    "name": "Basil",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "fragrant",
+      "green_color",
+      "herbal_aroma"
+    ]
+  },
+  {
+    "name": "Dill",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "thin_leaves",
+      "aromatic",
+      "fresh_use"
+    ]
+  },
+  {
+    "name": "Spinach_Baby",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "soft_leaves",
+      "green_color",
+      "salad_item"
+    ]
+  },
+  {
+    "name": "Neem_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "bitter_taste",
+      "medicinal_use",
+      "green"
+    ]
+  },
+  {
+    "name": "Cabbage_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "layered",
+      "green",
+      "purple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Beetroot_Greens",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "linked_to_beetroot",
+      "green_with_red_stems",
+      "nutritious"
+    ]
+  },
+  {
+    "name": "Amaranth_Leaves",
+    "attrs": [
+      "food",
+      "leafy_green",
+      "green",
+      "red",
+      "soft_texture",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Almond",
+    "attrs": [
+      "food",
+      "nut",
+      "brown_color",
+      "hard_shell",
+      "protein_rich",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Cashew",
+    "attrs": [
+      "food",
+      "nut",
+      "crescent_shape",
+      "cream_color",
+      "soft",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Walnut",
+    "attrs": [
+      "food",
+      "nut",
+      "brain_shape",
+      "brown_shell",
+      "omega_rich",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Pistachio",
+    "attrs": [
+      "food",
+      "nut",
+      "green_inside",
+      "hard_shell",
+      "snack_item",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Peanut",
+    "attrs": [
+      "food",
+      "nut",
+      "brown_shell",
+      "small_size",
+      "protein_rich",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Hazelnut",
+    "attrs": [
+      "food",
+      "nut",
+      "round_shape",
+      "brown_color",
+      "used_in_sweets",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Macadamia",
+    "attrs": [
+      "food",
+      "nut",
+      "creamy_texture",
+      "round_shape",
+      "rich_taste",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Brazil_Nut",
+    "attrs": [
+      "food",
+      "nut",
+      "large_size",
+      "brown_shell",
+      "energy_dense",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Pine_Nut",
+    "attrs": [
+      "food",
+      "nut",
+      "tiny_size",
+      "white_color",
+      "rich_taste",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Chestnut",
+    "attrs": [
+      "food",
+      "nut",
+      "brown_shell",
+      "soft_inside",
+      "roasted",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Pecan",
+    "attrs": [
+      "food",
+      "nut",
+      "wrinkled_surface",
+      "brown_color",
+      "buttery_taste",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Coconut_Dry",
+    "attrs": [
+      "food",
+      "nut",
+      "white_inside",
+      "hard_shell",
+      "used_in_sweets",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Water_Chesnut",
+    "attrs": [
+      "food",
+      "nut",
+      "black_shell",
+      "white_inside",
+      "crispy",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Fox_Nut",
+    "attrs": [
+      "food",
+      "nut",
+      "white_puffed",
+      "lightweight",
+      "roasted",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Areca_Nut",
+    "attrs": [
+      "food",
+      "nut",
+      "brown_hard",
+      "used_in_paan",
+      "small_size",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Ginkgo_Nut",
+    "attrs": [
+      "food",
+      "nut",
+      "yellowish",
+      "soft_texture",
+      "edible_when_cooked",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Groundnut",
+    "attrs": [
+      "food",
+      "nut",
+      "brown_shell",
+      "small_size",
+      "oil_source",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Chironji",
+    "attrs": [
+      "food",
+      "nut",
+      "tiny_size",
+      "cream_color",
+      "used_in_sweets",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Tiger_Nut",
+    "attrs": [
+      "food",
+      "nut",
+      "brown_color",
+      "chewy_texture",
+      "energy_rich",
+      "plant_based",
+      "hard",
+      "brown",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Kola_Nut",
+    "attrs": [
+      "food",
+      "nut",
+      "brown",
+      "red",
+      "bitter_taste",
+      "seed",
+      "plant_based",
+      "hard",
+      "small",
+      "dry"
+    ]
+  },
+  {
+    "name": "Rice",
+    "attrs": [
+      "food",
+      "grain",
+      "white",
+      "brown",
+      "tiny_grains",
+      "staple_food",
+      "plant_based",
+      "dry",
+      "small",
+      "staple"
+    ]
+  },
+  {
+    "name": "Wheat",
+    "attrs": [
+      "food",
+      "grain",
+      "brownish_color",
+      "ground_to_flour",
+      "staple",
+      "plant_based",
+      "dry",
+      "small",
+      "cooked",
+      "edible"
+    ]
+  },
+  {
+    "name": "Barley",
+    "attrs": [
+      "food",
+      "grain",
+      "light_brown",
+      "used_in_soup",
+      "nutritious",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Millet",
+    "attrs": [
+      "food",
+      "grain",
+      "small_round",
+      "yellow",
+      "white",
+      "fiber_rich",
+      "plant_based",
+      "dry",
+      "small",
+      "staple"
+    ]
+  },
+  {
+    "name": "Oats",
+    "attrs": [
+      "food",
+      "grain",
+      "rolled",
+      "fiber_rich",
+      "breakfast_item",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Corn_Grain",
+    "attrs": [
+      "food",
+      "grain",
+      "yellow_color",
+      "hard_kernels",
+      "used_in_flour",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Sorghum",
+    "attrs": [
+      "food",
+      "grain",
+      "white",
+      "red",
+      "gluten_free",
+      "nutritious",
+      "plant_based",
+      "dry",
+      "small",
+      "staple"
+    ]
+  },
+  {
+    "name": "Rye",
+    "attrs": [
+      "food",
+      "grain",
+      "dark_color",
+      "bread_flour",
+      "fiber_rich",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Quinoa",
+    "attrs": [
+      "food",
+      "grain",
+      "tiny_grains",
+      "protein_rich",
+      "superfood",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Buckwheat",
+    "attrs": [
+      "food",
+      "grain",
+      "dark_color",
+      "gluten_free",
+      "nutty_flavor",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Basmati_Rice",
+    "attrs": [
+      "food",
+      "grain",
+      "long_grain",
+      "aromatic",
+      "white_color",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Finger_Millet",
+    "attrs": [
+      "food",
+      "grain",
+      "brown_color",
+      "calcium_rich",
+      "healthy",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Foxtail_Millet",
+    "attrs": [
+      "food",
+      "grain",
+      "yellowish",
+      "small_size",
+      "gluten_free",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Pearl_Millet",
+    "attrs": [
+      "food",
+      "grain",
+      "grey_color",
+      "small_round",
+      "staple",
+      "plant_based",
+      "dry",
+      "small",
+      "cooked",
+      "edible"
+    ]
+  },
+  {
+    "name": "Kodo_Millet",
+    "attrs": [
+      "food",
+      "grain",
+      "light_brown",
+      "fiber_rich",
+      "healthy",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Little_Millet",
+    "attrs": [
+      "food",
+      "grain",
+      "small_white",
+      "digestible",
+      "gluten_free",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Wild_Rice",
+    "attrs": [
+      "food",
+      "grain",
+      "long_black",
+      "nutty_flavor",
+      "rare",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Teff",
+    "attrs": [
+      "food",
+      "grain",
+      "tiny_grains",
+      "ethiopian",
+      "gluten_free",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Freekeh",
+    "attrs": [
+      "food",
+      "grain",
+      "green_wheat",
+      "roasted",
+      "nutty_flavor",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Couscous",
+    "attrs": [
+      "food",
+      "grain",
+      "tiny_pellets",
+      "yellowish",
+      "used_in_salads",
+      "plant_based",
+      "dry",
+      "small",
+      "staple",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Turmeric",
+    "attrs": [
+      "food",
+      "spice",
+      "yellow_color",
+      "earthy",
+      "used_in_cooking",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "natural"
+    ]
+  },
+  {
+    "name": "Cumin",
+    "attrs": [
+      "food",
+      "spice",
+      "brown_seeds",
+      "aromatic",
+      "used_in_tempering",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking",
+      "natural"
+    ]
+  },
+  {
+    "name": "Coriander_Seeds",
+    "attrs": [
+      "food",
+      "spice",
+      "round_seeds",
+      "aromatic",
+      "used_in_powder",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking",
+      "natural"
+    ]
+  },
+  {
+    "name": "Black_Pepper",
+    "attrs": [
+      "food",
+      "spice",
+      "black_round",
+      "spicy",
+      "used_in_seasoning",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Cloves",
+    "attrs": [
+      "food",
+      "spice",
+      "brown_clove_shape",
+      "strong_aroma",
+      "used_in_curries",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Cardamom",
+    "attrs": [
+      "food",
+      "spice",
+      "green_pods",
+      "sweet_aroma",
+      "used_in_sweets",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Cinnamon",
+    "attrs": [
+      "food",
+      "spice",
+      "brown_sticks",
+      "sweet_aroma",
+      "used_in_baking",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Bay_Leaf",
+    "attrs": [
+      "food",
+      "spice",
+      "aromatic_leaf",
+      "green",
+      "brown",
+      "used_in_biryani",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small"
+    ]
+  },
+  {
+    "name": "Mustard_Seeds",
+    "attrs": [
+      "food",
+      "spice",
+      "black",
+      "yellow",
+      "pungent",
+      "used_in_tempering",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small"
+    ]
+  },
+  {
+    "name": "Fenugreek_Seeds",
+    "attrs": [
+      "food",
+      "spice",
+      "yellowish",
+      "bitter_taste",
+      "used_in_pickles",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Saffron",
+    "attrs": [
+      "food",
+      "spice",
+      "red_strands",
+      "aromatic",
+      "expensive",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking",
+      "natural"
+    ]
+  },
+  {
+    "name": "Chili_Powder",
+    "attrs": [
+      "food",
+      "spice",
+      "red_color",
+      "spicy",
+      "used_in_curries",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Nutmeg",
+    "attrs": [
+      "food",
+      "spice",
+      "brown_seed",
+      "warm_flavor",
+      "used_in_sweets",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Star_Anise",
+    "attrs": [
+      "food",
+      "spice",
+      "star_shape",
+      "aromatic",
+      "used_in_biryani",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking",
+      "natural"
+    ]
+  },
+  {
+    "name": "Asafoetida",
+    "attrs": [
+      "food",
+      "spice",
+      "strong_aroma",
+      "yellow_powder",
+      "used_in_tempering",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Fennel_Seeds",
+    "attrs": [
+      "food",
+      "spice",
+      "green_seeds",
+      "sweet_aroma",
+      "mouth_freshener",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Black_Cardamom",
+    "attrs": [
+      "food",
+      "spice",
+      "large_pods",
+      "smoky_flavor",
+      "used_in_curries",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Carom_Seeds",
+    "attrs": [
+      "food",
+      "spice",
+      "tiny_seeds",
+      "strong_flavor",
+      "used_in_paratha",
+      "aromatic",
+      "dry",
+      "small",
+      "used_in_cooking",
+      "natural"
+    ]
+  },
+  {
+    "name": "Sesame_Seeds",
+    "attrs": [
+      "food",
+      "spice",
+      "small_white",
+      "oil_rich",
+      "used_in_sweets",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Dry_Ginger_Powder",
+    "attrs": [
+      "food",
+      "spice",
+      "light_brown_powder",
+      "spicy",
+      "used_in_tea",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Rosemary",
+    "attrs": [
+      "food",
+      "herb",
+      "aromatic",
+      "needle_leaves",
+      "used_in_baking",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Thyme",
+    "attrs": [
+      "food",
+      "herb",
+      "tiny_leaves",
+      "aromatic",
+      "used_in_soups",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Oregano",
+    "attrs": [
+      "food",
+      "herb",
+      "dried",
+      "fresh",
+      "pizza_herb",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Sage",
+    "attrs": [
+      "food",
+      "herb",
+      "soft_leaves",
+      "aromatic",
+      "used_in_medicinal",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Marjoram",
+    "attrs": [
+      "food",
+      "herb",
+      "sweet_aroma",
+      "tiny_leaves",
+      "cooking_use",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Lavender",
+    "attrs": [
+      "food",
+      "herb",
+      "purple_flowers",
+      "fragrant",
+      "used_in_baking",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Chives",
+    "attrs": [
+      "food",
+      "herb",
+      "green_stems",
+      "mild_onion_flavor",
+      "used_in_salads",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Lemon_Grass",
+    "attrs": [
+      "food",
+      "herb",
+      "citrus_aroma",
+      "long_stems",
+      "used_in_tea",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Tulsi",
+    "attrs": [
+      "food",
+      "herb",
+      "aromatic",
+      "green_leaves",
+      "medicinal_use",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Curry_Leaves",
+    "attrs": [
+      "food",
+      "herb",
+      "aromatic",
+      "green_leaves",
+      "used_in_tempering",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Dill_Weed",
+    "attrs": [
+      "food",
+      "herb",
+      "thin_leaves",
+      "fresh_aroma",
+      "cooking_use",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Bay_Leaf_Fresh",
+    "attrs": [
+      "food",
+      "herb",
+      "aromatic_leaf",
+      "green_color",
+      "used_in_rice",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Mint",
+    "attrs": [
+      "food",
+      "herb",
+      "cooling_effect",
+      "aromatic",
+      "green_leaves",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Cilantro",
+    "attrs": [
+      "food",
+      "herb",
+      "fragrant",
+      "green_leaves",
+      "used_as_garnish",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Parsley_Flat",
+    "attrs": [
+      "food",
+      "herb",
+      "flat_leaves",
+      "fresh_aroma",
+      "garnish",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Basil_Sweet",
+    "attrs": [
+      "food",
+      "herb",
+      "green_leaves",
+      "sweet_aroma",
+      "pasta_herb",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Fenugreek_Fresh",
+    "attrs": [
+      "food",
+      "herb",
+      "green_leaves",
+      "aromatic",
+      "cooked",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Ginger_Fresh",
+    "attrs": [
+      "food",
+      "herb",
+      "root",
+      "spicy",
+      "used_in_tea",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Garlic_Fresh",
+    "attrs": [
+      "food",
+      "herb",
+      "white_cloves",
+      "strong_aroma",
+      "used_in_cooking",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Lemon_Balm",
+    "attrs": [
+      "food",
+      "herb",
+      "citrus_aroma",
+      "green_leaves",
+      "tea_herb",
+      "aromatic",
+      "green",
+      "leafy",
+      "plant_based",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Button_Mushroom",
+    "attrs": [
+      "food",
+      "fungus",
+      "white_cap",
+      "soft_texture",
+      "edible",
+      "soft",
+      "umami",
+      "cooked",
+      "kitchen_use",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Oyster_Mushroom",
+    "attrs": [
+      "food",
+      "fungus",
+      "fan_shape",
+      "soft_texture",
+      "white",
+      "gray",
+      "soft",
+      "edible",
+      "umami",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Shiitake",
+    "attrs": [
+      "food",
+      "fungus",
+      "brown_cap",
+      "meaty_texture",
+      "umami_flavor",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Portobello",
+    "attrs": [
+      "food",
+      "fungus",
+      "large_cap",
+      "brown_color",
+      "grill_friendly",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Enoki",
+    "attrs": [
+      "food",
+      "fungus",
+      "long_stems",
+      "white_color",
+      "crunchy",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Morel",
+    "attrs": [
+      "food",
+      "fungus",
+      "honeycomb_texture",
+      "brown_color",
+      "rare",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Truffle",
+    "attrs": [
+      "food",
+      "fungus",
+      "black",
+      "white",
+      "strong_aroma",
+      "expensive",
+      "soft",
+      "edible",
+      "umami",
+      "cooked"
+    ]
+  },
+  {
+    "name": "King_Oyster",
+    "attrs": [
+      "food",
+      "fungus",
+      "thick_stem",
+      "brown_cap",
+      "meaty",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Chanterelle",
+    "attrs": [
+      "food",
+      "fungus",
+      "yellow",
+      "orange",
+      "fruity_aroma",
+      "rare",
+      "soft",
+      "edible",
+      "umami",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Lion_Mane",
+    "attrs": [
+      "food",
+      "fungus",
+      "white_furry",
+      "brain_like",
+      "healthy",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Wood_Ear",
+    "attrs": [
+      "food",
+      "fungus",
+      "black",
+      "brown",
+      "jelly_texture",
+      "used_in_soups",
+      "soft",
+      "edible",
+      "umami",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Paddy_Straw",
+    "attrs": [
+      "food",
+      "fungus",
+      "white",
+      "brown",
+      "soft_caps",
+      "common",
+      "soft",
+      "edible",
+      "umami",
+      "cooked"
+    ]
+  },
+  {
+    "name": "Shimeji",
+    "attrs": [
+      "food",
+      "fungus",
+      "small_caps",
+      "white",
+      "brown",
+      "umami",
+      "soft",
+      "edible",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Reishi",
+    "attrs": [
+      "food",
+      "fungus",
+      "brown_reddish",
+      "medicinal",
+      "hard_texture",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Porcini",
+    "attrs": [
+      "food",
+      "fungus",
+      "brown_cap",
+      "thick_stem",
+      "rich_flavor",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Crimini",
+    "attrs": [
+      "food",
+      "fungus",
+      "brown_button",
+      "soft_texture",
+      "edible",
+      "soft",
+      "umami",
+      "cooked",
+      "kitchen_use",
+      "fresh"
+    ]
+  },
+  {
+    "name": "Inkcap",
+    "attrs": [
+      "food",
+      "fungus",
+      "delicate_cap",
+      "white",
+      "black",
+      "unique",
+      "soft",
+      "edible",
+      "umami",
+      "cooked"
+    ]
+  },
+  {
+    "name": "White_Truffle",
+    "attrs": [
+      "food",
+      "fungus",
+      "expensive",
+      "strong_aroma",
+      "rare",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Snow_Mushroom",
+    "attrs": [
+      "food",
+      "fungus",
+      "white_jelly",
+      "cloud_shape",
+      "rare",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Cordyceps",
+    "attrs": [
+      "food",
+      "fungus",
+      "orange_color",
+      "medicinal",
+      "rare",
+      "soft",
+      "edible",
+      "umami",
+      "cooked",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Dry_Ginger",
+    "attrs": [
+      "food",
+      "spice",
+      "dried_root",
+      "pungent",
+      "used_in_powder",
+      "aromatic",
+      "strong_flavor",
+      "dry",
+      "small",
+      "used_in_cooking"
+    ]
+  },
+  {
+    "name": "Milk",
+    "attrs": [
+      "food",
+      "dairy",
+      "white_liquid",
+      "calcium_rich",
+      "consumed_daily",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Curd",
+    "attrs": [
+      "food",
+      "dairy",
+      "fermented",
+      "white_color",
+      "used_in_meals",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Butter",
+    "attrs": [
+      "food",
+      "dairy",
+      "yellow_color",
+      "creamy_texture",
+      "fat_rich",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Ghee",
+    "attrs": [
+      "food",
+      "dairy",
+      "clarified_butter",
+      "aromatic",
+      "indian_cooking",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Cheese",
+    "attrs": [
+      "food",
+      "dairy",
+      "solid_form",
+      "yellow",
+      "white",
+      "milk_product",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Paneer",
+    "attrs": [
+      "food",
+      "dairy",
+      "soft_cottage_cheese",
+      "white_color",
+      "protein_rich",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Cream",
+    "attrs": [
+      "food",
+      "dairy",
+      "thick_texture",
+      "white_color",
+      "used_in_desserts",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Buttermilk",
+    "attrs": [
+      "food",
+      "dairy",
+      "liquid",
+      "cooling_drink",
+      "fermented",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Yogurt",
+    "attrs": [
+      "food",
+      "dairy",
+      "fermented",
+      "thick_texture",
+      "probiotic",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Skimmed_Milk",
+    "attrs": [
+      "food",
+      "dairy",
+      "low_fat",
+      "white_color",
+      "healthy",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Milk_Powder",
+    "attrs": [
+      "food",
+      "dairy",
+      "dry_form",
+      "white_powder",
+      "long_shelf_life",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Whey",
+    "attrs": [
+      "food",
+      "dairy",
+      "liquid_byproduct",
+      "protein_rich",
+      "used_in_drinks",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Lassi",
+    "attrs": [
+      "food",
+      "dairy",
+      "curd_drink",
+      "sweet",
+      "salty",
+      "cooling",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based"
+    ]
+  },
+  {
+    "name": "Kefir",
+    "attrs": [
+      "food",
+      "dairy",
+      "fermented_drink",
+      "probiotic",
+      "tangy",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Mozzarella",
+    "attrs": [
+      "food",
+      "dairy",
+      "soft_cheese",
+      "white_color",
+      "used_in_pizza",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Cheddar",
+    "attrs": [
+      "food",
+      "dairy",
+      "yellow_cheese",
+      "aged",
+      "savory",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Condensed_Milk",
+    "attrs": [
+      "food",
+      "dairy",
+      "thick_and_sweet",
+      "white",
+      "used_in_desserts",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Evaporated_Milk",
+    "attrs": [
+      "food",
+      "dairy",
+      "reduced_water",
+      "white",
+      "used_in_baking",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Ricotta",
+    "attrs": [
+      "food",
+      "dairy",
+      "soft_cheese",
+      "white_color",
+      "used_in_pasta",
+      "white",
+      "thick",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich"
+    ]
+  },
+  {
+    "name": "Sour_Cream",
+    "attrs": [
+      "food",
+      "dairy",
+      "tangy_taste",
+      "white_color",
+      "thick",
+      "white",
+      "liquid_or_solid",
+      "animal_based",
+      "calcium_rich",
+      "kitchen_use"
+    ]
+  },
+  {
+    "name": "Water",
+    "attrs": [
+      "food",
+      "beverage",
+      "clear_liquid",
+      "essential",
+      "tasteless",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Tea",
+    "attrs": [
+      "food",
+      "beverage",
+      "hot_drink",
+      "brown_color",
+      "aromatic",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Coffee",
+    "attrs": [
+      "food",
+      "beverage",
+      "caffeinated",
+      "dark_color",
+      "aromatic",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Juice",
+    "attrs": [
+      "food",
+      "beverage",
+      "fruit_drink",
+      "sweet",
+      "various_flavors",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Milkshake",
+    "attrs": [
+      "food",
+      "beverage",
+      "milk_based",
+      "sweet",
+      "thick",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Smoothie",
+    "attrs": [
+      "food",
+      "beverage",
+      "fruit_blend",
+      "thick_texture",
+      "healthy",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Soda",
+    "attrs": [
+      "food",
+      "beverage",
+      "carbonated",
+      "sweet",
+      "cold_drink",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Lemonade",
+    "attrs": [
+      "food",
+      "beverage",
+      "lemon_based",
+      "sour_sweet",
+      "refreshing",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Coconut_Water",
+    "attrs": [
+      "food",
+      "beverage",
+      "natural_drink",
+      "clear_liquid",
+      "cooling",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Falooda",
+    "attrs": [
+      "food",
+      "beverage",
+      "milk_based",
+      "sweet",
+      "dessert_drink",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Hot_Chocolate",
+    "attrs": [
+      "food",
+      "beverage",
+      "cocoa_drink",
+      "sweet",
+      "hot",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Energy_Drink",
+    "attrs": [
+      "food",
+      "beverage",
+      "caffeinated",
+      "carbonated",
+      "boosting",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Buttermilk_Drink",
+    "attrs": [
+      "food",
+      "beverage",
+      "fermented",
+      "cooling",
+      "salty",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Herbal_Tea",
+    "attrs": [
+      "food",
+      "beverage",
+      "caffeine_free",
+      "herbs",
+      "aromatic",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Kombucha",
+    "attrs": [
+      "food",
+      "beverage",
+      "fermented_tea",
+      "slightly_sour",
+      "probiotic",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Mocktail",
+    "attrs": [
+      "food",
+      "beverage",
+      "fruit_mix",
+      "sweet",
+      "non_alcoholic",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Iced_Tea",
+    "attrs": [
+      "food",
+      "beverage",
+      "cold_drink",
+      "tea_base",
+      "sweet",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Lassi_Drink",
+    "attrs": [
+      "food",
+      "beverage",
+      "curd_based",
+      "sweet",
+      "salty",
+      "cold",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Apple_Cider",
+    "attrs": [
+      "food",
+      "beverage",
+      "apple_drink",
+      "slightly_sour",
+      "refreshing",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "sweet",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Cold_Coffee",
+    "attrs": [
+      "food",
+      "beverage",
+      "coffee_based",
+      "cold",
+      "sweet",
+      "liquid",
+      "drink",
+      "consumed_cold_or_hot",
+      "refreshing",
+      "served_in_glass"
+    ]
+  },
+  {
+    "name": "Cake",
+    "attrs": [
+      "food",
+      "sweet",
+      "soft_texture",
+      "baked",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack",
+      "treat"
+    ]
+  },
+  {
+    "name": "Pastry",
+    "attrs": [
+      "food",
+      "sweet",
+      "layered",
+      "creamy",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack",
+      "treat"
+    ]
+  },
+  {
+    "name": "Ice_Cream",
+    "attrs": [
+      "food",
+      "sweet",
+      "cold_dessert",
+      "creamy",
+      "various_flavors",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Chocolate",
+    "attrs": [
+      "food",
+      "sweet",
+      "brown_color",
+      "cocoa_based",
+      "snack",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "treat"
+    ]
+  },
+  {
+    "name": "Ladoo",
+    "attrs": [
+      "food",
+      "sweet",
+      "round_shape",
+      "indian_dessert",
+      "sugar_based",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Barfi",
+    "attrs": [
+      "food",
+      "sweet",
+      "square_shape",
+      "milk_based",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack",
+      "treat"
+    ]
+  },
+  {
+    "name": "Rasgulla",
+    "attrs": [
+      "food",
+      "sweet",
+      "spongy_texture",
+      "white_color",
+      "syrup_based",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Gulab_Jamun",
+    "attrs": [
+      "food",
+      "sweet",
+      "brown_balls",
+      "syrup_soaked",
+      "indian_dessert",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Jalebi",
+    "attrs": [
+      "food",
+      "sweet",
+      "spiral_shape",
+      "orange_color",
+      "crispy",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Halwa",
+    "attrs": [
+      "food",
+      "sweet",
+      "soft_texture",
+      "served_warm",
+      "indian_dessert",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Kheer",
+    "attrs": [
+      "food",
+      "sweet",
+      "rice_based",
+      "milk_dessert",
+      "served_cold",
+      "warm",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item"
+    ]
+  },
+  {
+    "name": "Sandesh",
+    "attrs": [
+      "food",
+      "sweet",
+      "bengali_dessert",
+      "soft_texture",
+      "milk_based",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Mysore_Pak",
+    "attrs": [
+      "food",
+      "sweet",
+      "ghee_rich",
+      "soft",
+      "hard",
+      "south_indian",
+      "dessert",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Soan_Papdi",
+    "attrs": [
+      "food",
+      "sweet",
+      "flaky_texture",
+      "yellow_color",
+      "indian_dessert",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Kaju_Katli",
+    "attrs": [
+      "food",
+      "sweet",
+      "diamond_shape",
+      "cashew_based",
+      "smooth_texture",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Baklava",
+    "attrs": [
+      "food",
+      "sweet",
+      "layered_pastry",
+      "nuts_inside",
+      "syrup_based",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Donut",
+    "attrs": [
+      "food",
+      "sweet",
+      "ring_shape",
+      "fried",
+      "icing_on_top",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Pudding",
+    "attrs": [
+      "food",
+      "sweet",
+      "soft_texture",
+      "creamy",
+      "served_cold",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Brownie",
+    "attrs": [
+      "food",
+      "sweet",
+      "chocolate_based",
+      "soft",
+      "fudgy",
+      "baked",
+      "dessert",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack"
+    ]
+  },
+  {
+    "name": "Cupcake",
+    "attrs": [
+      "food",
+      "sweet",
+      "small_cake",
+      "frosting_on_top",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item",
+      "snack",
+      "treat"
+    ]
+  },
+  {
+    "name": "Chips",
+    "attrs": [
+      "food",
+      "snack",
+      "crispy",
+      "thin_slices",
+      "salted",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Samosa",
+    "attrs": [
+      "food",
+      "snack",
+      "fried",
+      "triangular",
+      "stuffed",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Pakoda",
+    "attrs": [
+      "food",
+      "snack",
+      "fried",
+      "crispy",
+      "gram_flour_coating",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Kachori",
+    "attrs": [
+      "food",
+      "snack",
+      "fried_ball",
+      "stuffed",
+      "indian_snack",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Noodles",
+    "attrs": [
+      "food",
+      "snack",
+      "long_strands",
+      "stir_fried",
+      "wheat_based",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Burger",
+    "attrs": [
+      "food",
+      "snack",
+      "bread_bun",
+      "stuffed_patty",
+      "fast_food",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Pizza",
+    "attrs": [
+      "food",
+      "snack",
+      "cheese_topping",
+      "baked",
+      "fast_food",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "French_Fries",
+    "attrs": [
+      "food",
+      "snack",
+      "fried_potatoes",
+      "crispy",
+      "salted",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Pasta",
+    "attrs": [
+      "food",
+      "snack",
+      "wheat_based",
+      "boiled_and_cooked",
+      "sauce_mix",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Popcorn",
+    "attrs": [
+      "food",
+      "snack",
+      "popped_corn",
+      "lightweight",
+      "salted",
+      "sweet",
+      "dessert",
+      "soft",
+      "served_cold_or_warm",
+      "kitchen_item"
+    ]
+  },
+  {
+    "name": "Bhel",
+    "attrs": [
+      "food",
+      "snack",
+      "puffed_rice_mix",
+      "tangy",
+      "street_food",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Dhokla",
+    "attrs": [
+      "food",
+      "snack",
+      "yellow",
+      "steamed",
+      "soft_texture",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Idli",
+    "attrs": [
+      "food",
+      "snack",
+      "steamed_cake",
+      "white_color",
+      "south_indian",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Vada",
+    "attrs": [
+      "food",
+      "snack",
+      "fried",
+      "round",
+      "donut_shape",
+      "south_indian",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold"
+    ]
+  },
+  {
+    "name": "Momos",
+    "attrs": [
+      "food",
+      "snack",
+      "dumplings",
+      "steamed",
+      "fried",
+      "stuffed",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold"
+    ]
+  },
+  {
+    "name": "Patties",
+    "attrs": [
+      "food",
+      "snack",
+      "baked_pastry",
+      "stuffed",
+      "crispy",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Nachos",
+    "attrs": [
+      "food",
+      "snack",
+      "crispy_triangles",
+      "corn_based",
+      "served_with_dip",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Chaat",
+    "attrs": [
+      "food",
+      "snack",
+      "tangy",
+      "street_food",
+      "mixed_snack",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Sandwich",
+    "attrs": [
+      "food",
+      "snack",
+      "bread_slices",
+      "stuffed",
+      "quick_meal",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Spring_Roll",
+    "attrs": [
+      "food",
+      "snack",
+      "crispy_roll",
+      "fried",
+      "stuffed",
+      "ready_to_eat",
+      "light_food",
+      "tasty",
+      "served_hot_or_cold",
+      "quick_food"
+    ]
+  },
+  {
+    "name": "Car",
+    "attrs": [
+      "vehicle",
+      "four_wheels",
+      "engine_powered",
+      "road_transport",
+      "seats_inside",
+      "steering_wheel",
+      "private_use",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual"
+    ]
+  },
+  {
+    "name": "Motorcycle",
+    "attrs": [
+      "vehicle",
+      "two_wheels",
+      "engine_powered",
+      "handlebars",
+      "road_transport",
+      "rider_seat",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement"
+    ]
+  },
+  {
+    "name": "Scooter",
+    "attrs": [
+      "vehicle",
+      "two_wheels",
+      "step_through_design",
+      "engine_powered",
+      "road_transport",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Bicycle",
+    "attrs": [
+      "vehicle",
+      "two_wheels",
+      "pedal_powered",
+      "chain_drive",
+      "road_transport",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Bus",
+    "attrs": [
+      "vehicle",
+      "four",
+      "more_wheels",
+      "public_transport",
+      "large_capacity",
+      "engine_powered",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement"
+    ]
+  },
+  {
+    "name": "Truck",
+    "attrs": [
+      "vehicle",
+      "cargo_transport",
+      "large_size",
+      "engine_powered",
+      "heavy_duty",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Van",
+    "attrs": [
+      "vehicle",
+      "cargo",
+      "passenger",
+      "four_wheels",
+      "engine_powered",
+      "medium_size",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement"
+    ]
+  },
+  {
+    "name": "Auto_Rickshaw",
+    "attrs": [
+      "vehicle",
+      "three_wheels",
+      "engine_powered",
+      "small_size",
+      "public_transport",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "E_Rickshaw",
+    "attrs": [
+      "vehicle",
+      "three_wheels",
+      "electric_powered",
+      "small_transport",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Tractor",
+    "attrs": [
+      "vehicle",
+      "agriculture_use",
+      "large_wheels",
+      "engine_powered",
+      "heavy_torque",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Bulldozer",
+    "attrs": [
+      "vehicle",
+      "construction_vehicle",
+      "crawler_tracks",
+      "front_blade",
+      "heavy_duty",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Forklift",
+    "attrs": [
+      "vehicle",
+      "warehouse_use",
+      "lifting_forks",
+      "engine",
+      "electric",
+      "industrial_vehicle",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement"
+    ]
+  },
+  {
+    "name": "Ambulance",
+    "attrs": [
+      "vehicle",
+      "emergency_vehicle",
+      "medical_transport",
+      "siren",
+      "four_wheels",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Fire_Truck",
+    "attrs": [
+      "vehicle",
+      "emergency_vehicle",
+      "water_pump",
+      "ladder_equipped",
+      "large_size",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Police_Car",
+    "attrs": [
+      "vehicle",
+      "law_enforcement",
+      "siren",
+      "four_wheels",
+      "engine_powered",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Helicopter",
+    "attrs": [
+      "vehicle",
+      "air_transport",
+      "rotor_blades",
+      "vertical_takeoff",
+      "engine_powered",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Airplane",
+    "attrs": [
+      "vehicle",
+      "air_transport",
+      "wings",
+      "jet",
+      "propeller",
+      "long_distance",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement"
+    ]
+  },
+  {
+    "name": "Glider",
+    "attrs": [
+      "vehicle",
+      "air_transport",
+      "no_engine",
+      "wings",
+      "lightweight_body",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Hot_Air_Balloon",
+    "attrs": [
+      "vehicle",
+      "air_transport",
+      "heat_lift",
+      "basket",
+      "slow_speed",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Spaceship",
+    "attrs": [
+      "vehicle",
+      "space_transport",
+      "rocket_engines",
+      "high_tech",
+      "sealed_cabin",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Boat",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "small_size",
+      "floating_hull",
+      "manual",
+      "motor",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement"
+    ]
+  },
+  {
+    "name": "Ship",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "large_size",
+      "engine_powered",
+      "sea_travel",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Submarine",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "underwater_capable",
+      "sealed_hull",
+      "engine_powered",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Jet_Ski",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "small_motor_vehicle",
+      "high_speed",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Yacht",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "luxury_vessel",
+      "engine",
+      "sail",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Sailboat",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "wind_powered",
+      "sails",
+      "floating_hull",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Canoe",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "narrow_boat",
+      "paddle_powered",
+      "lightweight",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Kayak",
+    "attrs": [
+      "vehicle",
+      "water_transport",
+      "paddle_single_seat",
+      "narrow_hull",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Train",
+    "attrs": [
+      "vehicle",
+      "rail_transport",
+      "multiple_coaches",
+      "engine_powered",
+      "long_distance",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Metro",
+    "attrs": [
+      "vehicle",
+      "rail_transport",
+      "urban_transit",
+      "electric_powered",
+      "multiple_cars",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Tram",
+    "attrs": [
+      "vehicle",
+      "rail_transport",
+      "street_level_tracks",
+      "electric_powered",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Monorail",
+    "attrs": [
+      "vehicle",
+      "rail_transport",
+      "single_track",
+      "electric_powered",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Hoverboard",
+    "attrs": [
+      "vehicle",
+      "self_balancing",
+      "electric_powered",
+      "two_wheels",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Skateboard",
+    "attrs": [
+      "vehicle",
+      "manual_powered",
+      "four_wheels",
+      "flat_board",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Roller_Skates",
+    "attrs": [
+      "vehicle",
+      "manual_powered",
+      "wheels_under_boots",
+      "personal_transport",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Electric_Scooter",
+    "attrs": [
+      "vehicle",
+      "two_wheels",
+      "electric_powered",
+      "urban_transport",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Segway",
+    "attrs": [
+      "vehicle",
+      "self_balancing",
+      "electric_powered",
+      "handlebar_stand",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Golf_Cart",
+    "attrs": [
+      "vehicle",
+      "small_electric",
+      "low_speed",
+      "four_wheels",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "ATV",
+    "attrs": [
+      "vehicle",
+      "four_wheels",
+      "off_road",
+      "handlebars",
+      "rugged_tires",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Snowmobile",
+    "attrs": [
+      "vehicle",
+      "snow_transport",
+      "ski_base",
+      "engine_powered",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Horse_Cart",
+    "attrs": [
+      "vehicle",
+      "animal_powered",
+      "two_wheels",
+      "wooden_frame",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Road_Roller",
+    "attrs": [
+      "vehicle",
+      "construction_vehicle",
+      "heavy_weight",
+      "cylindrical_drum",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Tanker_Truck",
+    "attrs": [
+      "vehicle",
+      "liquid_transport",
+      "cylindrical_tank",
+      "large_size",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item",
+      "common_vehicle"
+    ]
+  },
+  {
+    "name": "Smartphone",
+    "attrs": [
+      "electronics",
+      "handheld_device",
+      "touchscreen",
+      "camera_present",
+      "internet_enabled",
+      "portable",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Laptop",
+    "attrs": [
+      "electronics",
+      "portable",
+      "foldable_design",
+      "keyboard_attached",
+      "battery_powered",
+      "screen_display",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Tablet",
+    "attrs": [
+      "electronics",
+      "touchscreen_device",
+      "lightweight",
+      "battery_powered",
+      "larger_than_phone",
+      "portable",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Smartwatch",
+    "attrs": [
+      "electronics",
+      "wearable_device",
+      "small_screen",
+      "touch_control",
+      "bluetooth_connected",
+      "battery_powered",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Television",
+    "attrs": [
+      "electronics",
+      "display_screen",
+      "wall_mountable",
+      "remote_controlled",
+      "home_entertainment",
+      "large_screen",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Keyboard",
+    "attrs": [
+      "electronics",
+      "input_device",
+      "button_keys",
+      "wired",
+      "wireless",
+      "used_with_computer",
+      "compact_design",
+      "device",
+      "powered",
+      "tech_item"
+    ]
+  },
+  {
+    "name": "Mouse",
+    "attrs": [
+      "electronics",
+      "input_device",
+      "pointing_control",
+      "wired",
+      "wireless",
+      "used_with_computer",
+      "small_size",
+      "device",
+      "powered",
+      "tech_item"
+    ]
+  },
+  {
+    "name": "Monitor",
+    "attrs": [
+      "electronics",
+      "display_screen",
+      "external_output",
+      "used_with_pc",
+      "flat_panel",
+      "desk_placement",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Printer",
+    "attrs": [
+      "electronics",
+      "printing_device",
+      "paper_output",
+      "ink",
+      "toner",
+      "office_equipment",
+      "wired",
+      "wireless",
+      "device",
+      "powered"
+    ]
+  },
+  {
+    "name": "Scanner",
+    "attrs": [
+      "electronics",
+      "image_input",
+      "document_scanner",
+      "flat_bed_design",
+      "office_equipment",
+      "digital_output",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Projector",
+    "attrs": [
+      "electronics",
+      "display_device",
+      "wall_projection",
+      "lens_based",
+      "remote_supported",
+      "used_in_meetings",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Remote_Control",
+    "attrs": [
+      "electronics",
+      "battery_powered",
+      "signal_transmitter",
+      "handheld_device",
+      "button_input",
+      "used_for_tv",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Air_Conditioner",
+    "attrs": [
+      "electronics",
+      "cooling_device",
+      "wall_mounted",
+      "remote_operated",
+      "home_appliance",
+      "power_consuming",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Refrigerator",
+    "attrs": [
+      "electronics",
+      "cooling_appliance",
+      "food_storage",
+      "large_body",
+      "household_item",
+      "door_compartments",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Microwave",
+    "attrs": [
+      "electronics",
+      "kitchen_appliance",
+      "heat_food",
+      "timer_control",
+      "door_with_glass",
+      "tabletop_design",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Washing_Machine",
+    "attrs": [
+      "electronics",
+      "laundry_appliance",
+      "drum_rotating",
+      "water_based",
+      "home_appliance",
+      "large_size",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Dryer",
+    "attrs": [
+      "electronics",
+      "laundry_appliance",
+      "heat_air_drying",
+      "drum_spinning",
+      "home_appliance",
+      "large_body",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Electric_Kettle",
+    "attrs": [
+      "electronics",
+      "water_boiler",
+      "household_item",
+      "heating_element",
+      "handle_attached",
+      "small_appliance",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Mixer_Grinder",
+    "attrs": [
+      "electronics",
+      "kitchen_appliance",
+      "blade_rotating",
+      "food_processing",
+      "jar_based",
+      "motor_powered",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Induction_Cooktop",
+    "attrs": [
+      "electronics",
+      "kitchen_appliance",
+      "flat_heating_surface",
+      "touch_controls",
+      "portable",
+      "electric_heating",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Air_Fryer",
+    "attrs": [
+      "electronics",
+      "kitchen_appliance",
+      "hot_air_cooking",
+      "basket_interior",
+      "digital_controls",
+      "tabletop_design",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Toaster",
+    "attrs": [
+      "electronics",
+      "bread_toasting",
+      "heating_element",
+      "kitchen_appliance",
+      "slot_design",
+      "compact_size",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Iron",
+    "attrs": [
+      "electronics",
+      "clothes_pressing",
+      "heated_plate",
+      "handle_attached",
+      "home_appliance",
+      "wired_power",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Hair_Dryer",
+    "attrs": [
+      "electronics",
+      "personal_care",
+      "hot_air_blower",
+      "handheld",
+      "motor_fan",
+      "corded",
+      "cordless",
+      "device",
+      "powered",
+      "tech_item"
+    ]
+  },
+  {
+    "name": "Trimmer",
+    "attrs": [
+      "electronics",
+      "personal_grooming",
+      "blade_movement",
+      "battery_powered",
+      "small_device",
+      "hair_cutting",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Electric_Shaver",
+    "attrs": [
+      "electronics",
+      "personal_grooming",
+      "rotary_blades",
+      "battery_powered",
+      "small_device",
+      "shaving_tool",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Bluetooth_Speaker",
+    "attrs": [
+      "electronics",
+      "audio_output",
+      "wireless_connection",
+      "portable",
+      "battery_powered",
+      "small_box_design",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Headphones",
+    "attrs": [
+      "electronics",
+      "audio_output",
+      "ear_covers",
+      "wired",
+      "wireless",
+      "personal_audio",
+      "stereo_sound",
+      "device",
+      "powered",
+      "tech_item"
+    ]
+  },
+  {
+    "name": "Earbuds",
+    "attrs": [
+      "electronics",
+      "audio_output",
+      "small_in_ear",
+      "wireless_enabled",
+      "charging_case",
+      "portable",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Soundbar",
+    "attrs": [
+      "electronics",
+      "audio_output",
+      "long_speaker_unit",
+      "home_theater",
+      "remote_controlled",
+      "wall",
+      "table_use",
+      "device",
+      "powered",
+      "tech_item"
+    ]
+  },
+  {
+    "name": "Camera",
+    "attrs": [
+      "electronics",
+      "image_capturing",
+      "lens_based",
+      "portable",
+      "photo_video",
+      "battery_powered",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Digital_Clock",
+    "attrs": [
+      "electronics",
+      "time_display",
+      "LED",
+      "LCD",
+      "desk",
+      "wall",
+      "alarm_function",
+      "battery",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "Calculator",
+    "attrs": [
+      "electronics",
+      "number_input",
+      "small_handheld",
+      "screen_display",
+      "battery_powered",
+      "office_item",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "UPS",
+    "attrs": [
+      "electronics",
+      "power_backup",
+      "battery_inside",
+      "box_design",
+      "used_with_pc",
+      "heavy_unit",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Router",
+    "attrs": [
+      "electronics",
+      "internet_device",
+      "wifi_signal",
+      "antenna_present",
+      "home_network",
+      "wired_input",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Modem",
+    "attrs": [
+      "electronics",
+      "internet_device",
+      "wired_connection",
+      "network_signal",
+      "small_box_design",
+      "home_network",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "VR_Headset",
+    "attrs": [
+      "electronics",
+      "virtual_reality",
+      "head_mounted",
+      "screen_inside",
+      "motion_tracking",
+      "gaming_use",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Gaming_Console",
+    "attrs": [
+      "electronics",
+      "gaming_device",
+      "controller_supported",
+      "home_entertainment",
+      "hdmi_output",
+      "storage_inside",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Drone",
+    "attrs": [
+      "electronics",
+      "flying_device",
+      "propellers_present",
+      "camera_optional",
+      "remote_controlled",
+      "battery_powered",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Power_Bank",
+    "attrs": [
+      "electronics",
+      "portable_charger",
+      "battery_storage",
+      "usb_output",
+      "small_device",
+      "travel_accessory",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Smart_Speaker",
+    "attrs": [
+      "electronics",
+      "voice_assistant",
+      "audio_output",
+      "wifi_enabled",
+      "cylindrical_design",
+      "home_device",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "E_Reader",
+    "attrs": [
+      "electronics",
+      "digital_book_reader",
+      "e_ink_display",
+      "lightweight",
+      "battery_longlife",
+      "portable",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "DVD_Player",
+    "attrs": [
+      "electronics",
+      "disk_reader",
+      "home_entertainment",
+      "tray_system",
+      "wired_output",
+      "remote_operated",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Set_Top_Box",
+    "attrs": [
+      "electronics",
+      "tv_receiver",
+      "remote_operated",
+      "digital_signal",
+      "box_device",
+      "home_entertainment",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Fan",
+    "attrs": [
+      "electronics",
+      "air_flow_device",
+      "rotating_blades",
+      "home_appliance",
+      "three_speed",
+      "wired_power",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Heater",
+    "attrs": [
+      "electronics",
+      "heating_device",
+      "room_warming",
+      "portable",
+      "coil",
+      "fan",
+      "wired_power",
+      "device",
+      "powered",
+      "tech_item"
+    ]
+  },
+  {
+    "name": "Inverter",
+    "attrs": [
+      "electronics",
+      "power_conversion",
+      "home_backup",
+      "heavy_unit",
+      "battery_connected",
+      "indoor_device",
+      "device",
+      "powered",
+      "tech_item",
+      "modern"
+    ]
+  },
+  {
+    "name": "Broom",
+    "attrs": [
+      "household_item",
+      "cleaning_tool",
+      "long_handle",
+      "bristle_end",
+      "manual_use",
+      "floor_cleaning",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Mop",
+    "attrs": [
+      "household_item",
+      "cleaning_tool",
+      "absorbent_head",
+      "long_handle",
+      "wet_cleaning",
+      "floor_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Bucket",
+    "attrs": [
+      "household_item",
+      "water_container",
+      "plastic_body",
+      "handle_attached",
+      "cleaning_use",
+      "medium_size",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Dustpan",
+    "attrs": [
+      "household_item",
+      "cleaning_tool",
+      "flat_surface",
+      "short_handle",
+      "collects_dust",
+      "floor_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Trash_Can",
+    "attrs": [
+      "household_item",
+      "waste_container",
+      "lid_optional",
+      "cylindrical_shape",
+      "kitchen",
+      "room_use",
+      "plastic",
+      "steel",
+      "home_use",
+      "daily_use"
+    ]
+  },
+  {
+    "name": "Laundry_Basket",
+    "attrs": [
+      "household_item",
+      "clothes_holder",
+      "vented_design",
+      "large_container",
+      "plastic_body",
+      "portable",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Clothes_Hanger",
+    "attrs": [
+      "household_item",
+      "clothing_holder",
+      "thin_frame",
+      "hook_top",
+      "wardrobe_use",
+      "lightweight",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Ironing_Board",
+    "attrs": [
+      "household_item",
+      "foldable_table",
+      "cloth_ironing",
+      "metal_frame",
+      "padded_surface",
+      "tall_height",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Curtain",
+    "attrs": [
+      "household_item",
+      "window_cover",
+      "fabric_material",
+      "rod_hanging",
+      "light_blocking",
+      "room_decoration",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Bedsheet",
+    "attrs": [
+      "household_item",
+      "bed_cover",
+      "fabric_material",
+      "rectangular_sheet",
+      "soft_texture",
+      "bedroom_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Pillow",
+    "attrs": [
+      "household_item",
+      "soft_cushion",
+      "head_support",
+      "fabric_cover",
+      "sleeping_use",
+      "rectangular",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Blanket",
+    "attrs": [
+      "household_item",
+      "warm_cover",
+      "fabric_material",
+      "soft_texture",
+      "bedroom_use",
+      "large_size",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Cushion",
+    "attrs": [
+      "household_item",
+      "soft_pad",
+      "sofa_use",
+      "square_shape",
+      "fabric_cover",
+      "comfort_item",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Mirror",
+    "attrs": [
+      "household_item",
+      "reflective_surface",
+      "glass_material",
+      "wall_mounted",
+      "rectangular",
+      "round",
+      "daily_use",
+      "home_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Wall_Clock",
+    "attrs": [
+      "household_item",
+      "time_display",
+      "round_shape",
+      "wall_mounted",
+      "battery_powered",
+      "hands",
+      "digital",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Table_Lamp",
+    "attrs": [
+      "household_item",
+      "lighting_device",
+      "small_lamp",
+      "desk_use",
+      "wired_power",
+      "soft_light",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Door_Mat",
+    "attrs": [
+      "household_item",
+      "floor_mat",
+      "dust_wiping",
+      "rectangular",
+      "rubber",
+      "fabric",
+      "entrance_use",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Umbrella",
+    "attrs": [
+      "household_item",
+      "rain_protection",
+      "foldable",
+      "fabric_canopy",
+      "handle_present",
+      "portable",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Torch",
+    "attrs": [
+      "household_item",
+      "light_source",
+      "handheld",
+      "battery_powered",
+      "cylindrical",
+      "portable",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Storage_Box",
+    "attrs": [
+      "household_item",
+      "multi-purpose_container",
+      "plastic",
+      "wood",
+      "rectangular",
+      "lid_optional",
+      "organizing_use",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Photo_Frame",
+    "attrs": [
+      "household_item",
+      "picture_holder",
+      "glass_front",
+      "tabletop",
+      "wall",
+      "rectangle_shape",
+      "decor_item",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Vase",
+    "attrs": [
+      "household_item",
+      "flower_holder",
+      "ceramic",
+      "glass",
+      "tall_shape",
+      "decor_item",
+      "tabletop_piece",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Wall_Shelf",
+    "attrs": [
+      "household_item",
+      "storage_platform",
+      "wood",
+      "metal",
+      "wall_fitted",
+      "rectangular",
+      "home_organization",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Doormat",
+    "attrs": [
+      "household_item",
+      "foot_wiping",
+      "rectangular",
+      "coarse_texture",
+      "placed_at_entrance",
+      "floor_item",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Laundry_Detergent",
+    "attrs": [
+      "household_item",
+      "cleaning_agent",
+      "powder",
+      "liquid",
+      "fragrance_present",
+      "laundry_use",
+      "plastic_container",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Dish_Rack",
+    "attrs": [
+      "household_item",
+      "plate_holder",
+      "kitchen_use",
+      "drainage_design",
+      "plastic",
+      "steel",
+      "multi_slot",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Cloth_Dryer_Stand",
+    "attrs": [
+      "household_item",
+      "foldable_frame",
+      "clothes_drying",
+      "metal_rods",
+      "portable",
+      "indoor_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Room_Freshener",
+    "attrs": [
+      "household_item",
+      "fragrance_spray",
+      "air_freshening",
+      "small_bottle",
+      "aerosol_type",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Wall_Hook",
+    "attrs": [
+      "household_item",
+      "hanging_hook",
+      "metal",
+      "plastic",
+      "wall_mounted",
+      "small_size",
+      "multi-purpose",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Dust_Bin",
+    "attrs": [
+      "household_item",
+      "waste_container",
+      "plastic",
+      "steel",
+      "lid_optional",
+      "cylindrical_shape",
+      "daily_use",
+      "home_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Sofa_Cover",
+    "attrs": [
+      "household_item",
+      "fabric_cover",
+      "protection_use",
+      "stretchable",
+      "decor_item",
+      "living_room_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Table_Cloth",
+    "attrs": [
+      "household_item",
+      "table_cover",
+      "fabric_material",
+      "rectangular",
+      "decor_item",
+      "dining_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Shoe_Rack",
+    "attrs": [
+      "household_item",
+      "storage_unit",
+      "multiple_shelves",
+      "wood",
+      "plastic",
+      "entrance_use",
+      "organizer",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Coat_Stand",
+    "attrs": [
+      "household_item",
+      "clothes_hanger",
+      "tall_pole",
+      "multiple_hooks",
+      "wood",
+      "metal",
+      "entryway_use",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Candle",
+    "attrs": [
+      "household_item",
+      "wax_item",
+      "wick_present",
+      "light_source",
+      "home_use",
+      "small_size",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Matches",
+    "attrs": [
+      "household_item",
+      "ignition_tool",
+      "wooden_sticks",
+      "matchbox",
+      "fire_starting",
+      "small_item",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Towel",
+    "attrs": [
+      "household_item",
+      "absorbent_fabric",
+      "bath_use",
+      "rectangular",
+      "soft_texture",
+      "daily_use",
+      "home_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Bath_Mat",
+    "attrs": [
+      "household_item",
+      "floor_mat",
+      "water_absorbing",
+      "rectangular",
+      "bathroom_use",
+      "soft_surface",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Toilet_Brush",
+    "attrs": [
+      "household_item",
+      "cleaning_tool",
+      "long_handle",
+      "bristle_head",
+      "bathroom_use",
+      "plastic_body",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Soap_Dispenser",
+    "attrs": [
+      "household_item",
+      "liquid_soap_holder",
+      "pump_mechanism",
+      "plastic",
+      "glass",
+      "bathroom",
+      "kitchen",
+      "small_container",
+      "home_use",
+      "daily_use"
+    ]
+  },
+  {
+    "name": "Tissue_Box",
+    "attrs": [
+      "household_item",
+      "paper_holder",
+      "rectangular_box",
+      "soft_tissues",
+      "tabletop_use",
+      "lightweight",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Water_Jug",
+    "attrs": [
+      "household_item",
+      "liquid_container",
+      "handle_present",
+      "pouring_spout",
+      "kitchen_use",
+      "plastic",
+      "glass",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Cutting_Board",
+    "attrs": [
+      "household_item",
+      "flat_surface",
+      "kitchen_use",
+      "wood",
+      "plastic",
+      "rectangular",
+      "chopping_tool",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Laundry_Clip",
+    "attrs": [
+      "household_item",
+      "clothes_holder",
+      "spring_mechanism",
+      "plastic",
+      "wood",
+      "small_size",
+      "drying_use",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Alarm_Clock",
+    "attrs": [
+      "household_item",
+      "time_display",
+      "alarm_feature",
+      "battery",
+      "wired",
+      "small_size",
+      "bedside_use",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Serving_Tray",
+    "attrs": [
+      "household_item",
+      "flat_plate",
+      "handles_present",
+      "kitchen_use",
+      "plastic",
+      "wood",
+      "carrying_item",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Water_Bottle",
+    "attrs": [
+      "household_item",
+      "liquid_holder",
+      "portable",
+      "plastic",
+      "steel",
+      "cap_attached",
+      "daily_use",
+      "home_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Floor_Mat",
+    "attrs": [
+      "household_item",
+      "soft_surface",
+      "rectangular",
+      "placed_on_floor",
+      "fabric",
+      "rubber",
+      "room_use",
+      "home_use",
+      "daily_use",
+      "common_item"
+    ]
+  },
+  {
+    "name": "Knife",
+    "attrs": [
+      "household_item",
+      "cutting_tool",
+      "sharp",
+      "steel_blade",
+      "food_prep",
+      "hand_tool",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Fork",
+    "attrs": [
+      "household_item",
+      "eating_utensil",
+      "metal_utensil",
+      "tableware",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Spoon",
+    "attrs": [
+      "household_item",
+      "eating_utensil",
+      "tableware",
+      "scooping_tool",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Plate",
+    "attrs": [
+      "household_item",
+      "serving_dish",
+      "flat",
+      "tableware",
+      "ceramic",
+      "steel",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Bowl",
+    "attrs": [
+      "household_item",
+      "serving_bowl",
+      "deep_shape",
+      "tableware",
+      "food_holding",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Cup",
+    "attrs": [
+      "household_item",
+      "drinkware",
+      "liquid_holder",
+      "small_container",
+      "tableware",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Mug",
+    "attrs": [
+      "household_item",
+      "drinkware",
+      "hot_drink_holder",
+      "handle_attached",
+      "ceramic",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Glass",
+    "attrs": [
+      "household_item",
+      "drinkware",
+      "transparent",
+      "cold_drink_holder",
+      "breakable",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Cutting Board",
+    "attrs": [
+      "household_item",
+      "food_prep",
+      "chopping_surface",
+      "flat_board",
+      "wood",
+      "plastic",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Spatula",
+    "attrs": [
+      "household_item",
+      "cooking_tool",
+      "flat_head",
+      "flipping_tool",
+      "heat_resistant",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Tongs",
+    "attrs": [
+      "household_item",
+      "cooking_tool",
+      "gripping_tool",
+      "heat_resistant",
+      "metal",
+      "silicone",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Whisk",
+    "attrs": [
+      "household_item",
+      "mixing_tool",
+      "stirring",
+      "baking_tool",
+      "steel_wires",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Rolling Pin",
+    "attrs": [
+      "household_item",
+      "baking_tool",
+      "dough_flattening",
+      "wooden",
+      "cylindrical",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Razor",
+    "attrs": [
+      "household_item",
+      "shaving_tool",
+      "blade_attached",
+      "handheld",
+      "grooming_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Peeler",
+    "attrs": [
+      "household_item",
+      "cutting_tool",
+      "blade_attached",
+      "vegetable_peeling",
+      "hand_tool",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Grater",
+    "attrs": [
+      "household_item",
+      "food_prep",
+      "shredding_tool",
+      "metal_surface",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Measuring Cup",
+    "attrs": [
+      "household_item",
+      "measurement_tool",
+      "liquid_measure",
+      "cooking_prep",
+      "plastic",
+      "glass",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Measuring Spoon",
+    "attrs": [
+      "household_item",
+      "measurement_tool",
+      "small_measure",
+      "baking_use",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Colander",
+    "attrs": [
+      "household_item",
+      "strainer",
+      "water_drain",
+      "bowl_shape",
+      "holes_present",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Strainer",
+    "attrs": [
+      "household_item",
+      "filter_tool",
+      "fine_mesh",
+      "liquid_straining",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Frying Pan",
+    "attrs": [
+      "household_item",
+      "cooking_pan",
+      "flat_bottom",
+      "stove_use",
+      "metal_body",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Saucepan",
+    "attrs": [
+      "household_item",
+      "cooking_pot",
+      "deep_pan",
+      "stove_use",
+      "handle_attached",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Pot",
+    "attrs": [
+      "household_item",
+      "cooking_pot",
+      "deep_container",
+      "boiling_use",
+      "metal_body",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Pressure Cooker",
+    "attrs": [
+      "household_item",
+      "cooking_appliance",
+      "steam_cooking",
+      "metal_body",
+      "lid_lock",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Kettle",
+    "attrs": [
+      "household_item",
+      "water_boiler",
+      "handle_attached",
+      "spout_present",
+      "stove",
+      "electric",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Ladle",
+    "attrs": [
+      "household_item",
+      "serving_tool",
+      "deep_bowl_end",
+      "soup_serving",
+      "long_handle",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Serving Spoon",
+    "attrs": [
+      "household_item",
+      "serving_tool",
+      "large_spoon",
+      "food_serving",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Kitchen Shears",
+    "attrs": [
+      "household_item",
+      "cutting_tool",
+      "scissor_design",
+      "food_cutting",
+      "hand_tool",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Oven Mitt",
+    "attrs": [
+      "household_item",
+      "heat_protection",
+      "fabric_glove",
+      "hot_surface_handling",
+      "thick_material",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Apron",
+    "attrs": [
+      "household_item",
+      "protective_wear",
+      "cooking_use",
+      "fabric_material",
+      "front_cover",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Mixing Bowl",
+    "attrs": [
+      "household_item",
+      "mixing_tool",
+      "wide_bowl",
+      "food_prep",
+      "plastic",
+      "steel",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Baking Tray",
+    "attrs": [
+      "household_item",
+      "baking_tool",
+      "flat_tray",
+      "oven_use",
+      "metal_surface",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Oven",
+    "attrs": [
+      "household_item",
+      "cooking_appliance",
+      "heat_source",
+      "baking_use",
+      "electric",
+      "gas",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Microwave",
+    "attrs": [
+      "household_item",
+      "cooking_appliance",
+      "radiant_heating",
+      "quick_heating",
+      "electric",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Toaster",
+    "attrs": [
+      "household_item",
+      "electric_appliance",
+      "bread_toasting",
+      "slot_design",
+      "countertop",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Blender",
+    "attrs": [
+      "household_item",
+      "electric_appliance",
+      "food_blending",
+      "blade_system",
+      "container_jar",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Mixer Grinder",
+    "attrs": [
+      "household_item",
+      "electric_appliance",
+      "food_grinding",
+      "blades_attached",
+      "jar_container",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Coffee Maker",
+    "attrs": [
+      "household_item",
+      "drink_appliance",
+      "coffee_brewing",
+      "electric",
+      "water_heating",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Tea Strainer",
+    "attrs": [
+      "household_item",
+      "filter_tool",
+      "fine_mesh",
+      "tea_filtering",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Salt Shaker",
+    "attrs": [
+      "household_item",
+      "seasoning_holder",
+      "small_container",
+      "holes_on_top",
+      "table_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Pepper Grinder",
+    "attrs": [
+      "household_item",
+      "seasoning_tool",
+      "spice_grinding",
+      "manual_operation",
+      "table_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Bottle Opener",
+    "attrs": [
+      "household_item",
+      "opening_tool",
+      "metal_body",
+      "cap_removal",
+      "hand_tool",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Can Opener",
+    "attrs": [
+      "household_item",
+      "opening_tool",
+      "blade_attached",
+      "tin_cutting",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Jar",
+    "attrs": [
+      "household_item",
+      "storage_container",
+      "glass",
+      "plastic",
+      "screw_lid",
+      "food_storage",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Food Container",
+    "attrs": [
+      "household_item",
+      "storage_box",
+      "airtight_lid",
+      "plastic",
+      "steel",
+      "food_storage",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Oil Dispenser",
+    "attrs": [
+      "household_item",
+      "liquid_holder",
+      "spout_present",
+      "cooking_use",
+      "glass",
+      "steel",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Spice Rack",
+    "attrs": [
+      "household_item",
+      "storage_unit",
+      "multiple_containers",
+      "spice_organization",
+      "countertop_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Chopping Knife",
+    "attrs": [
+      "household_item",
+      "cutting_tool",
+      "wide_blade",
+      "vegetable_cutting",
+      "sharp_edge",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Cleaver",
+    "attrs": [
+      "household_item",
+      "cutting_tool",
+      "heavy_blade",
+      "food_chopping",
+      "rectangular_blade",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Rice Cooker",
+    "attrs": [
+      "household_item",
+      "electric_appliance",
+      "rice_cooking",
+      "auto_shutdown",
+      "inner_pot",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Teddy Bear",
+    "attrs": [
+      "toy",
+      "soft_toy",
+      "plush_material",
+      "child_play",
+      "cute"
+    ]
+  },
+  {
+    "name": "Toy Car",
+    "attrs": [
+      "toy",
+      "mini_vehicle",
+      "rolling_wheels",
+      "child_play",
+      "plastic",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Doll",
+    "attrs": [
+      "toy",
+      "human_shape",
+      "child_play",
+      "plastic",
+      "fabric",
+      "figure"
+    ]
+  },
+  {
+    "name": "Puzzle",
+    "attrs": [
+      "toy",
+      "brain_game",
+      "multiple_pieces",
+      "assembly",
+      "flat_board"
+    ]
+  },
+  {
+    "name": "Building Blocks",
+    "attrs": [
+      "toy",
+      "stacking_blocks",
+      "colorful",
+      "child_play",
+      "construction_play"
+    ]
+  },
+  {
+    "name": "Toy Train",
+    "attrs": [
+      "toy",
+      "mini_train",
+      "rolling_wheels",
+      "child_play",
+      "track_set"
+    ]
+  },
+  {
+    "name": "Action Figure",
+    "attrs": [
+      "toy",
+      "character_figure",
+      "movable_joints",
+      "plastic",
+      "child_play"
+    ]
+  },
+  {
+    "name": "Remote Car",
+    "attrs": [
+      "toy",
+      "remote_control",
+      "mini_vehicle",
+      "battery_powered",
+      "child_play",
+      "machine",
+      "used_for_transport",
+      "engine_or_manual",
+      "movement",
+      "transport_item"
+    ]
+  },
+  {
+    "name": "Yo-Yo",
+    "attrs": [
+      "toy",
+      "string_toy",
+      "hand_skill",
+      "round_shape",
+      "child_play"
+    ]
+  },
+  {
+    "name": "Kite",
+    "attrs": [
+      "toy",
+      "flying_toy",
+      "string_attached",
+      "paper",
+      "plastic",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Rubber Duck",
+    "attrs": [
+      "toy",
+      "bath_toy",
+      "yellow_color",
+      "rubber_material",
+      "child_play"
+    ]
+  },
+  {
+    "name": "Toy Robot",
+    "attrs": [
+      "toy",
+      "robot_shape",
+      "plastic",
+      "child_play",
+      "figure"
+    ]
+  },
+  {
+    "name": "Marbles",
+    "attrs": [
+      "toy",
+      "small_spheres",
+      "glass",
+      "child_play",
+      "rolling"
+    ]
+  },
+  {
+    "name": "Top (Lattu)",
+    "attrs": [
+      "toy",
+      "spinning_toy",
+      "string_spin",
+      "child_play",
+      "wooden"
+    ]
+  },
+  {
+    "name": "Bubble Blower",
+    "attrs": [
+      "toy",
+      "bubble_maker",
+      "plastic_wand",
+      "soap_solution",
+      "child_play"
+    ]
+  },
+  {
+    "name": "Toy Gun",
+    "attrs": [
+      "toy",
+      "plastic_gun",
+      "child_play",
+      "trigger",
+      "sound",
+      "light"
+    ]
+  },
+  {
+    "name": "Stuffed Bunny",
+    "attrs": [
+      "toy",
+      "soft_toy",
+      "plush_material",
+      "animal_shape",
+      "child_play"
+    ]
+  },
+  {
+    "name": "Toy Drum",
+    "attrs": [
+      "toy",
+      "music_toy",
+      "drum_shape",
+      "sticks_included",
+      "child_play"
+    ]
+  },
+  {
+    "name": "Slinky",
+    "attrs": [
+      "toy",
+      "spring_toy",
+      "stretching",
+      "child_play",
+      "metal",
+      "plastic"
+    ]
+  },
+  {
+    "name": "Toy Airplane",
+    "attrs": [
+      "toy",
+      "mini_airplane",
+      "child_play",
+      "plastic",
+      "hand_throw"
+    ]
+  },
+  {
+    "name": "Pencil",
+    "attrs": [
+      "stationery_item",
+      "writing_tool",
+      "wooden",
+      "graphite_core",
+      "handheld"
+    ]
+  },
+  {
+    "name": "Pen",
+    "attrs": [
+      "stationery_item",
+      "writing_tool",
+      "ink_core",
+      "handheld",
+      "plastic_body"
+    ]
+  },
+  {
+    "name": "Eraser",
+    "attrs": [
+      "stationery_item",
+      "rubber_block",
+      "mistake_removal",
+      "soft_material"
+    ]
+  },
+  {
+    "name": "Sharpener",
+    "attrs": [
+      "stationery_item",
+      "blade_tool",
+      "pencil_sharpening",
+      "small_size"
+    ]
+  },
+  {
+    "name": "Scale (Ruler)",
+    "attrs": [
+      "stationery_item",
+      "measurement_tool",
+      "straight_edge",
+      "plastic",
+      "steel"
+    ]
+  },
+  {
+    "name": "Notebook",
+    "attrs": [
+      "stationery_item",
+      "paper_pages",
+      "writing_book",
+      "spiral",
+      "bound"
+    ]
+  },
+  {
+    "name": "Sketchbook",
+    "attrs": [
+      "stationery_item",
+      "drawing_book",
+      "blank_pages",
+      "thick_paper"
+    ]
+  },
+  {
+    "name": "Marker",
+    "attrs": [
+      "stationery_item",
+      "ink_marker",
+      "thick_tip",
+      "drawing",
+      "labeling"
+    ]
+  },
+  {
+    "name": "Highlighter",
+    "attrs": [
+      "stationery_item",
+      "ink_marker",
+      "bright_color",
+      "text_highlighting"
+    ]
+  },
+  {
+    "name": "Glue Stick",
+    "attrs": [
+      "stationery_item",
+      "adhesive",
+      "solid_glue",
+      "paper_sticking"
+    ]
+  },
+  {
+    "name": "Stapler",
+    "attrs": [
+      "stationery_item",
+      "paper_binding",
+      "metal_tool",
+      "hand_press"
+    ]
+  },
+  {
+    "name": "Staple Pins",
+    "attrs": [
+      "stationery_item",
+      "metal_pins",
+      "paper_binding",
+      "small_size"
+    ]
+  },
+  {
+    "name": "Paper Clips",
+    "attrs": [
+      "stationery_item",
+      "wire_clips",
+      "paper_holding",
+      "small"
+    ]
+  },
+  {
+    "name": "Scissors",
+    "attrs": [
+      "stationery_item",
+      "cutting_tool",
+      "two_blades",
+      "hand_tool"
+    ]
+  },
+  {
+    "name": "Tape Dispenser",
+    "attrs": [
+      "stationery_item",
+      "tape_holder",
+      "cutting_edge",
+      "desk_tool"
+    ]
+  },
+  {
+    "name": "Correction Pen",
+    "attrs": [
+      "stationery_item",
+      "ink_corrector",
+      "white_liquid",
+      "fine_tip"
+    ]
+  },
+  {
+    "name": "Binder",
+    "attrs": [
+      "stationery_item",
+      "folder",
+      "paper_organizer",
+      "plastic",
+      "cardboard"
+    ]
+  },
+  {
+    "name": "Index Cards",
+    "attrs": [
+      "stationery_item",
+      "small_cards",
+      "note_taking",
+      "stack_pack"
+    ]
+  },
+  {
+    "name": "Sticky Notes",
+    "attrs": [
+      "stationery_item",
+      "mini_notes",
+      "adhesive_strip",
+      "bright_colors"
+    ]
+  },
+  {
+    "name": "Chart Paper",
+    "attrs": [
+      "stationery_item",
+      "large_sheet",
+      "craft_use",
+      "colorful"
+    ]
+  },
+  {
+    "name": "Football",
+    "attrs": [
+      "sports_item",
+      "ball_shape",
+      "outdoor_sport",
+      "inflatable",
+      "kicking_game"
+    ]
+  },
+  {
+    "name": "Cricket Bat",
+    "attrs": [
+      "sports_item",
+      "bat_shape",
+      "wooden",
+      "ball_hitting",
+      "outdoor_sport"
+    ]
+  },
+  {
+    "name": "Cricket Ball",
+    "attrs": [
+      "sports_item",
+      "hard_ball",
+      "leather_cover",
+      "bowling",
+      "batting"
+    ]
+  },
+  {
+    "name": "Tennis Racket",
+    "attrs": [
+      "sports_item",
+      "racket_frame",
+      "string_surface",
+      "ball_hitting"
+    ]
+  },
+  {
+    "name": "Tennis Ball",
+    "attrs": [
+      "sports_item",
+      "soft_ball",
+      "yellow_color",
+      "bouncy"
+    ]
+  },
+  {
+    "name": "Badminton Racket",
+    "attrs": [
+      "sports_item",
+      "lightweight_racket",
+      "net_surface",
+      "indoor_sport"
+    ]
+  },
+  {
+    "name": "Shuttlecock",
+    "attrs": [
+      "sports_item",
+      "feather",
+      "plastic",
+      "lightweight",
+      "badminton_play"
+    ]
+  },
+  {
+    "name": "Basketball",
+    "attrs": [
+      "sports_item",
+      "large_ball",
+      "bouncy",
+      "indoor",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Volleyball",
+    "attrs": [
+      "sports_item",
+      "ball_shape",
+      "team_sport",
+      "bouncy"
+    ]
+  },
+  {
+    "name": "Hockey Stick",
+    "attrs": [
+      "sports_item",
+      "stick_shape",
+      "curved_end",
+      "ball_hitting"
+    ]
+  },
+  {
+    "name": "Hockey Ball",
+    "attrs": [
+      "sports_item",
+      "hard_ball",
+      "smooth_surface",
+      "field_game"
+    ]
+  },
+  {
+    "name": "Table Tennis Racket",
+    "attrs": [
+      "sports_item",
+      "small_racket",
+      "rubber_surface",
+      "indoor_game"
+    ]
+  },
+  {
+    "name": "Table Tennis Ball",
+    "attrs": [
+      "sports_item",
+      "small_ball",
+      "lightweight",
+      "indoor_game"
+    ]
+  },
+  {
+    "name": "Skipping Rope",
+    "attrs": [
+      "sports_item",
+      "rope",
+      "fitness_use",
+      "jumping"
+    ]
+  },
+  {
+    "name": "Baseball Bat",
+    "attrs": [
+      "sports_item",
+      "bat_shape",
+      "wood",
+      "metal",
+      "ball_hitting"
+    ]
+  },
+  {
+    "name": "Baseball",
+    "attrs": [
+      "sports_item",
+      "small_ball",
+      "stitched_pattern",
+      "throwing_game"
+    ]
+  },
+  {
+    "name": "Boxing Gloves",
+    "attrs": [
+      "sports_item",
+      "hand_gloves",
+      "padded",
+      "boxing_sport"
+    ]
+  },
+  {
+    "name": "Skateboard",
+    "attrs": [
+      "sports_item",
+      "rolling_board",
+      "wheels",
+      "outdoor_sport"
+    ]
+  },
+  {
+    "name": "Helmet",
+    "attrs": [
+      "sports_item",
+      "head_protection",
+      "hard_shell",
+      "safety"
+    ]
+  },
+  {
+    "name": "Cricket Pads",
+    "attrs": [
+      "sports_item",
+      "leg_guard",
+      "protective_gear",
+      "batting_use"
+    ]
+  },
+  {
+    "name": "T-Shirt",
+    "attrs": [
+      "cloth",
+      "casual_wear",
+      "short_sleeves",
+      "cotton_fabric",
+      "upper_body_wear"
+    ]
+  },
+  {
+    "name": "Shirt",
+    "attrs": [
+      "cloth",
+      "formal_wear",
+      "collar",
+      "buttons",
+      "upper_body_wear"
+    ]
+  },
+  {
+    "name": "Jeans",
+    "attrs": [
+      "cloth",
+      "denim_fabric",
+      "long_pants",
+      "casual_wear",
+      "blue_color"
+    ]
+  },
+  {
+    "name": "Shorts",
+    "attrs": [
+      "cloth",
+      "half_pants",
+      "casual_wear",
+      "lightweight",
+      "lower_body_wear"
+    ]
+  },
+  {
+    "name": "Skirt",
+    "attrs": [
+      "cloth",
+      "lower_body_wear",
+      "fabric_drape",
+      "female_wear",
+      "casual",
+      "formal"
+    ]
+  },
+  {
+    "name": "Dress",
+    "attrs": [
+      "cloth",
+      "full_body_wear",
+      "female_wear",
+      "fabric",
+      "casual",
+      "party"
+    ]
+  },
+  {
+    "name": "Jacket",
+    "attrs": [
+      "cloth",
+      "upper_body_wear",
+      "warm_wear",
+      "zip",
+      "buttons",
+      "thick_fabric"
+    ]
+  },
+  {
+    "name": "Sweater",
+    "attrs": [
+      "cloth",
+      "warm_wear",
+      "woolen",
+      "knitted",
+      "upper_body_wear"
+    ]
+  },
+  {
+    "name": "Hoodie",
+    "attrs": [
+      "cloth",
+      "upper_body_wear",
+      "hood_attached",
+      "casual_wear",
+      "warm_wear"
+    ]
+  },
+  {
+    "name": "Kurta",
+    "attrs": [
+      "cloth",
+      "traditional_wear",
+      "long_top",
+      "cotton",
+      "silk"
+    ]
+  },
+  {
+    "name": "Salwar",
+    "attrs": [
+      "cloth",
+      "traditional_wear",
+      "loose_pants",
+      "female_wear"
+    ]
+  },
+  {
+    "name": "Saree",
+    "attrs": [
+      "cloth",
+      "traditional_wear",
+      "long_fabric",
+      "female_wear",
+      "draped"
+    ]
+  },
+  {
+    "name": "Blouse",
+    "attrs": [
+      "cloth",
+      "upper_body_wear",
+      "female_wear",
+      "short_top"
+    ]
+  },
+  {
+    "name": "Track Pants",
+    "attrs": [
+      "cloth",
+      "sportswear",
+      "stretch_fabric",
+      "lower_body_wear"
+    ]
+  },
+  {
+    "name": "Pyjamas",
+    "attrs": [
+      "cloth",
+      "sleepwear",
+      "soft_fabric",
+      "loose_fit"
+    ]
+  },
+  {
+    "name": "Cap",
+    "attrs": [
+      "cloth",
+      "headwear",
+      "brim_front",
+      "casual"
+    ]
+  },
+  {
+    "name": "Socks",
+    "attrs": [
+      "cloth",
+      "footwear_item",
+      "pair",
+      "fabric"
+    ]
+  },
+  {
+    "name": "Gloves",
+    "attrs": [
+      "cloth",
+      "handwear",
+      "pair",
+      "warm",
+      "protective"
+    ]
+  },
+  {
+    "name": "Scarf",
+    "attrs": [
+      "cloth",
+      "neckwear",
+      "fabric_strip",
+      "warm",
+      "style"
+    ]
+  },
+  {
+    "name": "Tracksuit",
+    "attrs": [
+      "cloth",
+      "sportswear",
+      "two_piece",
+      "training_wear"
+    ]
+  },
+  {
+    "name": "Watch",
+    "attrs": [
+      "accessory",
+      "timekeeping",
+      "wrist_wear",
+      "strap_attached",
+      "daily_use",
+      "fashion_item"
+    ]
+  },
+  {
+    "name": "Necklace",
+    "attrs": [
+      "accessory",
+      "jewelry",
+      "neck_wear",
+      "metal",
+      "beads"
+    ]
+  },
+  {
+    "name": "Bracelet",
+    "attrs": [
+      "accessory",
+      "jewelry",
+      "wrist_wear",
+      "loop_design"
+    ]
+  },
+  {
+    "name": "Ring",
+    "attrs": [
+      "accessory",
+      "finger_wear",
+      "metal_band",
+      "jewelry"
+    ]
+  },
+  {
+    "name": "Earrings",
+    "attrs": [
+      "accessory",
+      "ear_wear",
+      "pair",
+      "jewelry",
+      "decorative"
+    ]
+  },
+  {
+    "name": "Belt",
+    "attrs": [
+      "accessory",
+      "waist_wear",
+      "buckle",
+      "leather",
+      "fabric"
+    ]
+  },
+  {
+    "name": "Handbag",
+    "attrs": [
+      "accessory",
+      "carry_bag",
+      "strap",
+      "fashion_item"
+    ]
+  },
+  {
+    "name": "Backpack",
+    "attrs": [
+      "accessory",
+      "carry_bag",
+      "two_straps",
+      "storage"
+    ]
+  },
+  {
+    "name": "Wallet",
+    "attrs": [
+      "accessory",
+      "money_holder",
+      "pocket_size",
+      "foldable"
+    ]
+  },
+  {
+    "name": "Sunglasses",
+    "attrs": [
+      "accessory",
+      "eye_wear",
+      "dark_lenses",
+      "sun_protection"
+    ]
+  },
+  {
+    "name": "Hairband",
+    "attrs": [
+      "accessory",
+      "hair_wear",
+      "loop_band",
+      "fashion_item"
+    ]
+  },
+  {
+    "name": "Cap",
+    "attrs": [
+      "accessory",
+      "headwear",
+      "brim_design",
+      "fashion",
+      "sun"
+    ]
+  },
+  {
+    "name": "Keychain",
+    "attrs": [
+      "accessory",
+      "key_holder",
+      "small_item",
+      "metal",
+      "plastic"
+    ]
+  },
+  {
+    "name": "Scarf",
+    "attrs": [
+      "accessory",
+      "neck_wear",
+      "fabric_strip",
+      "style"
+    ]
+  },
+  {
+    "name": "Brooch",
+    "attrs": [
+      "accessory",
+      "pin_style",
+      "decorative",
+      "clothing_attach"
+    ]
+  },
+  {
+    "name": "Tie",
+    "attrs": [
+      "accessory",
+      "neckwear",
+      "formal_wear",
+      "fabric_strip"
+    ]
+  },
+  {
+    "name": "Cufflinks",
+    "attrs": [
+      "accessory",
+      "shirt_buttons",
+      "formal_wear",
+      "pair"
+    ]
+  },
+  {
+    "name": "Anklet",
+    "attrs": [
+      "accessory",
+      "ankle_wear",
+      "jewelry",
+      "chain_design"
+    ]
+  },
+  {
+    "name": "Hair Clip",
+    "attrs": [
+      "accessory",
+      "hair_wear",
+      "clamp_design",
+      "decorative"
+    ]
+  },
+  {
+    "name": "Purse",
+    "attrs": [
+      "accessory",
+      "small_bag",
+      "handheld",
+      "fashion_item"
+    ]
+  },
+  {
+    "name": "Sofa",
+    "attrs": [
+      "furniture",
+      "seating",
+      "upholstered",
+      "backrest",
+      "living_room"
+    ]
+  },
+  {
+    "name": "chair",
+    "attrs": [
+      "furniture",
+      "single_seater",
+      "cushioned",
+      "armrests",
+      "living_room"
+    ]
+  },
+  {
+    "name": "Dining Table",
+    "attrs": [
+      "furniture",
+      "table",
+      "flat_surface",
+      "wooden",
+      "dining_room"
+    ]
+  },
+  {
+    "name": "Chair",
+    "attrs": [
+      "furniture",
+      "seating",
+      "wooden_frame",
+      "four_legs",
+      "living_room",
+      "dining_room"
+    ]
+  },
+  {
+    "name": "Bed",
+    "attrs": [
+      "furniture",
+      "sleeping_surface",
+      "frame",
+      "mattress_support",
+      "bedroom"
+    ]
+  },
+  {
+    "name": "Wardrobe",
+    "attrs": [
+      "furniture",
+      "storage",
+      "tall_unit",
+      "doors",
+      "bedroom"
+    ]
+  },
+  {
+    "name": "Bookshelf",
+    "attrs": [
+      "furniture",
+      "shelves",
+      "storage",
+      "vertical_unit",
+      "living_room"
+    ]
+  },
+  {
+    "name": "Coffee Table",
+    "attrs": [
+      "furniture",
+      "low_table",
+      "living_room",
+      "flat_surface",
+      "wooden"
+    ]
+  },
+  {
+    "name": "TV Stand",
+    "attrs": [
+      "furniture",
+      "media_unit",
+      "flat_surface",
+      "storage_shelves",
+      "living_room"
+    ]
+  },
+  {
+    "name": "Nightstand",
+    "attrs": [
+      "furniture",
+      "small_table",
+      "drawer",
+      "bedside",
+      "bedroom"
+    ]
+  },
+  {
+    "name": "Dresser",
+    "attrs": [
+      "furniture",
+      "storage",
+      "multiple_drawers",
+      "bedroom",
+      "wooden"
+    ]
+  },
+  {
+    "name": "Study Desk",
+    "attrs": [
+      "furniture",
+      "workstation",
+      "flat_surface",
+      "wooden",
+      "office_use"
+    ]
+  },
+  {
+    "name": "Office Chair",
+    "attrs": [
+      "furniture",
+      "seating",
+      "rotating",
+      "wheels",
+      "office_use"
+    ]
+  },
+  {
+    "name": "Stool",
+    "attrs": [
+      "furniture",
+      "seating",
+      "no_backrest",
+      "compact",
+      "bar_use"
+    ]
+  },
+  {
+    "name": "Shoe Rack",
+    "attrs": [
+      "furniture",
+      "storage",
+      "shelves",
+      "entryway",
+      "wooden"
+    ]
+  },
+  {
+    "name": "Cabinet",
+    "attrs": [
+      "furniture",
+      "storage_unit",
+      "doors",
+      "wooden",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Recliner",
+    "attrs": [
+      "furniture",
+      "adjustable_seat",
+      "footrest",
+      "cushioned",
+      "living_room"
+    ]
+  },
+  {
+    "name": "Bean Bag",
+    "attrs": [
+      "furniture",
+      "soft_seating",
+      "fabric_cover",
+      "lightweight",
+      "living_room"
+    ]
+  },
+  {
+    "name": "Bar Table",
+    "attrs": [
+      "furniture",
+      "tall_table",
+      "cylindrical_support",
+      "bar_area",
+      "wooden"
+    ]
+  },
+  {
+    "name": "Sideboard",
+    "attrs": [
+      "furniture",
+      "storage_cabinet",
+      "flat_top",
+      "living_room",
+      "wooden"
+    ]
+  },
+  {
+    "name": "Thermometer",
+    "attrs": [
+      "medical_item",
+      "temperature_measure",
+      "handheld",
+      "small_device"
+    ]
+  },
+  {
+    "name": "Stethoscope",
+    "attrs": [
+      "medical_item",
+      "diagnostic",
+      "listening_device",
+      "doctor_tool"
+    ]
+  },
+  {
+    "name": "Blood Pressure Monitor",
+    "attrs": [
+      "medical_item",
+      "diagnostic",
+      "digital_device",
+      "arm_band"
+    ]
+  },
+  {
+    "name": "Syringe",
+    "attrs": [
+      "medical_item",
+      "injection_tool",
+      "needle",
+      "sterile"
+    ]
+  },
+  {
+    "name": "Bandage",
+    "attrs": [
+      "medical_item",
+      "wound_cover",
+      "cotton_strip",
+      "first_aid"
+    ]
+  },
+  {
+    "name": "First Aid Kit",
+    "attrs": [
+      "medical_item",
+      "emergency_kit",
+      "portable",
+      "storage_box"
+    ]
+  },
+  {
+    "name": "Glucose Meter",
+    "attrs": [
+      "medical_item",
+      "diagnostic",
+      "blood_test",
+      "small_device"
+    ]
+  },
+  {
+    "name": "Inhaler",
+    "attrs": [
+      "medical_item",
+      "breathing_device",
+      "handheld",
+      "plastic_body"
+    ]
+  },
+  {
+    "name": "Surgical Mask",
+    "attrs": [
+      "medical_item",
+      "face_cover",
+      "protective",
+      "disposable"
+    ]
+  },
+  {
+    "name": "Pulse Oximeter",
+    "attrs": [
+      "medical_item",
+      "finger_clip",
+      "oxygen_measure",
+      "digital_display"
+    ]
+  },
+  {
+    "name": "Cotton Roll",
+    "attrs": [
+      "medical_item",
+      "absorbent",
+      "first_aid",
+      "soft_material"
+    ]
+  },
+  {
+    "name": "Scalpel",
+    "attrs": [
+      "medical_item",
+      "sharp_tool",
+      "surgical_use",
+      "metal_blade"
+    ]
+  },
+  {
+    "name": "IV Drip",
+    "attrs": [
+      "medical_item",
+      "fluid_supply",
+      "tube_system",
+      "hospital_use"
+    ]
+  },
+  {
+    "name": "Crutches",
+    "attrs": [
+      "medical_item",
+      "walking_support",
+      "lightweight_metal",
+      "pair"
+    ]
+  },
+  {
+    "name": "Wheelchair",
+    "attrs": [
+      "medical_item",
+      "mobility_device",
+      "wheels",
+      "seat"
+    ]
+  },
+  {
+    "name": "Hot Water Bag",
+    "attrs": [
+      "medical_item",
+      "heat_therapy",
+      "rubber_bag",
+      "pain_relief"
+    ]
+  },
+  {
+    "name": "Ice Pack",
+    "attrs": [
+      "medical_item",
+      "cold_therapy",
+      "gel_pack",
+      "reusable"
+    ]
+  },
+  {
+    "name": "Nebulizer",
+    "attrs": [
+      "medical_item",
+      "breathing_device",
+      "electric",
+      "vapor_output"
+    ]
+  },
+  {
+    "name": "Medicine Bottle",
+    "attrs": [
+      "medical_item",
+      "storage_container",
+      "small_size",
+      "sealed_cap"
+    ]
+  },
+  {
+    "name": "Surgical Gloves",
+    "attrs": [
+      "medical_item",
+      "protective_wear",
+      "disposable",
+      "latex"
+    ]
+  },
+  {
+    "name": "Hammer",
+    "attrs": [
+      "tool",
+      "striking_tool",
+      "metal_head",
+      "wooden_handle"
+    ]
+  },
+  {
+    "name": "Screwdriver",
+    "attrs": [
+      "tool",
+      "turning_tool",
+      "metal_shaft",
+      "handheld"
+    ]
+  },
+  {
+    "name": "Wrench",
+    "attrs": [
+      "tool",
+      "tightening_tool",
+      "metal_body",
+      "adjustable"
+    ]
+  },
+  {
+    "name": "Pliers",
+    "attrs": [
+      "tool",
+      "gripping_tool",
+      "metal_jaws",
+      "handheld"
+    ]
+  },
+  {
+    "name": "Drill Machine",
+    "attrs": [
+      "tool",
+      "power_tool",
+      "electric",
+      "rotating_bit"
+    ]
+  },
+  {
+    "name": "Tape Measure",
+    "attrs": [
+      "tool",
+      "measuring_tool",
+      "retractable",
+      "metal_tape"
+    ]
+  },
+  {
+    "name": "Spanner",
+    "attrs": [
+      "tool",
+      "tightening_tool",
+      "metal",
+      "open_end"
+    ]
+  },
+  {
+    "name": "Saw",
+    "attrs": [
+      "tool",
+      "cutting_tool",
+      "sharp_teeth",
+      "wood_cutting"
+    ]
+  },
+  {
+    "name": "Chisel",
+    "attrs": [
+      "tool",
+      "cutting_tool",
+      "metal_blade",
+      "wood_carving"
+    ]
+  },
+  {
+    "name": "Shovel",
+    "attrs": [
+      "tool",
+      "digging_tool",
+      "metal_blade",
+      "long_handle"
+    ]
+  },
+  {
+    "name": "Crowbar",
+    "attrs": [
+      "tool",
+      "prying_tool",
+      "metal_bar",
+      "construction_use"
+    ]
+  },
+  {
+    "name": "Level",
+    "attrs": [
+      "tool",
+      "measuring_tool",
+      "bubble_indicator",
+      "straight_edge"
+    ]
+  },
+  {
+    "name": "Utility Knife",
+    "attrs": [
+      "tool",
+      "cutting_tool",
+      "folding_blade",
+      "small_size"
+    ]
+  },
+  {
+    "name": "Sanding Machine",
+    "attrs": [
+      "tool",
+      "power_tool",
+      "surface_smoothing",
+      "electric"
+    ]
+  },
+  {
+    "name": "Glue Gun",
+    "attrs": [
+      "tool",
+      "adhesive_applicator",
+      "electric_heat",
+      "craft_use"
+    ]
+  },
+  {
+    "name": "Ladder",
+    "attrs": [
+      "tool",
+      "climbing_tool",
+      "metal_steps",
+      "tall"
+    ]
+  },
+  {
+    "name": "Welding Machine",
+    "attrs": [
+      "tool",
+      "power_tool",
+      "metal_joining",
+      "high_heat"
+    ]
+  },
+  {
+    "name": "Angle Grinder",
+    "attrs": [
+      "tool",
+      "cutting_tool",
+      "rotating_disc",
+      "power_tool"
+    ]
+  },
+  {
+    "name": "Bolt Cutter",
+    "attrs": [
+      "tool",
+      "cutting_tool",
+      "long_handle",
+      "metal_blades"
+    ]
+  },
+  {
+    "name": "Flashlight",
+    "attrs": [
+      "tool",
+      "light_source",
+      "portable",
+      "battery_powered"
+    ]
+  },
+  {
+    "name": "Brick",
+    "attrs": [
+      "construction_item",
+      "solid_block",
+      "clay_material",
+      "building_use"
+    ]
+  },
+  {
+    "name": "Cement Bag",
+    "attrs": [
+      "construction_item",
+      "powder_material",
+      "binding_agent",
+      "heavy"
+    ]
+  },
+  {
+    "name": "Sand",
+    "attrs": [
+      "construction_item",
+      "granular_material",
+      "mixing_use",
+      "loose"
+    ]
+  },
+  {
+    "name": "Gravel",
+    "attrs": [
+      "construction_item",
+      "stone_pieces",
+      "mixing_use",
+      "rough_texture"
+    ]
+  },
+  {
+    "name": "Steel Rod",
+    "attrs": [
+      "construction_item",
+      "metal_rod",
+      "reinforcement",
+      "strong"
+    ]
+  },
+  {
+    "name": "Concrete Block",
+    "attrs": [
+      "construction_item",
+      "solid_block",
+      "cement_based",
+      "heavy"
+    ]
+  },
+  {
+    "name": "Wood Plank",
+    "attrs": [
+      "construction_item",
+      "wooden_board",
+      "flat_piece",
+      "building_use"
+    ]
+  },
+  {
+    "name": "Roof Tile",
+    "attrs": [
+      "construction_item",
+      "flat_tile",
+      "clay",
+      "concrete",
+      "roof_use"
+    ]
+  },
+  {
+    "name": "Paint Bucket",
+    "attrs": [
+      "construction_item",
+      "liquid_color",
+      "sealed_container",
+      "wall_finishing"
+    ]
+  },
+  {
+    "name": "Screws",
+    "attrs": [
+      "construction_item",
+      "metal_fastener",
+      "spiral_thread",
+      "holding_support"
+    ]
+  },
+  {
+    "name": "PVC Pipe",
+    "attrs": [
+      "construction_item",
+      "plastic_tube",
+      "water_flow",
+      "long_hollow"
+    ]
+  },
+  {
+    "name": "Wire Roll",
+    "attrs": [
+      "construction_item",
+      "electric_wire",
+      "copper_core",
+      "coil"
+    ]
+  },
+  {
+    "name": "Lime Powder",
+    "attrs": [
+      "construction_item",
+      "white_powder",
+      "surface_coating",
+      "mixing_use"
+    ]
+  },
+  {
+    "name": "Putty",
+    "attrs": [
+      "construction_item",
+      "wall_finishing",
+      "smooth_paste",
+      "white_material"
+    ]
+  },
+  {
+    "name": "Plaster Sheet",
+    "attrs": [
+      "construction_item",
+      "flat_panel",
+      "drywall",
+      "ceiling_use"
+    ]
+  },
+  {
+    "name": "Concrete Mixer",
+    "attrs": [
+      "construction_item",
+      "rotating_drum",
+      "machine",
+      "mixing_tool"
+    ]
+  },
+  {
+    "name": "Wheelbarrow",
+    "attrs": [
+      "construction_item",
+      "transport_tool",
+      "one_wheel",
+      "metal_body"
+    ]
+  },
+  {
+    "name": "Safety Helmet",
+    "attrs": [
+      "construction_item",
+      "protective_gear",
+      "hard_shell",
+      "head_protection"
+    ]
+  },
+  {
+    "name": "Scaffolding",
+    "attrs": [
+      "construction_item",
+      "support_structure",
+      "metal_frame",
+      "height_work"
+    ]
+  },
+  {
+    "name": "Toothbrush",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "cleaning_tool",
+      "bristles",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Toothpaste",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "cleaning_gel",
+      "tube_container",
+      "oral_hygiene",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Shampoo",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "liquid_cleanser",
+      "hair_wash",
+      "bottle",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Soap",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "solid_cleanser",
+      "bath_use",
+      "fragrant",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Comb",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "hair_tool",
+      "plastic_body",
+      "teeth_design",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Hair Oil",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "liquid_oil",
+      "hair_care",
+      "bottle",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Face Wash",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "gel_cleanser",
+      "face_cleaning",
+      "tube",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Perfume",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "fragrance_spray",
+      "glass_bottle",
+      "aroma",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Lotion",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "skin_moisturizer",
+      "cream_texture",
+      "bottle",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Deodorant",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "body_spray",
+      "fragrance",
+      "aerosol_can",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Shaving Cream",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "foam",
+      "skin_softening",
+      "metal_can",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Nail Clipper",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "small_tool",
+      "metal_blade",
+      "nail_cutting",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Nail File",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "smoothing_tool",
+      "rough_surface",
+      "handheld",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Lip Balm",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "lip_moisturizer",
+      "small_container",
+      "soft_texture",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  },
+  {
+    "name": "Face Mask",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "skin_treatment",
+      "sheet",
+      "cream",
+      "beauty_use",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic"
+    ]
+  },
+  {
+    "name": "Hand Sanitizer",
+    "attrs": [
+      "personal_care",
+      "household_item",
+      "liquid_gel",
+      "alcohol_base",
+      "hand_cleaning",
+      "home_use",
+      "daily_use",
+      "common_item",
+      "non_electronic",
+      "handheld_or_stationary"
+    ]
+  }
+]

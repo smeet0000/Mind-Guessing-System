@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MindSpark</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="genie-section">
+      <img src="{{ url_for('static', filename='images/idle.png') }}" alt="Genie" class="genie-img">
+
+      <div class="speech speech-left">
+        <p>Hello, I am <span>MindSpark</span> Genie!</p>
+      </div>
+
+      <div class="speech speech-right">
+        <p>Think of an animal, object or character.<br>
+        I’ll try to guess what it is!</p>
+      </div>
+    </div>
+
+    <h1 class="logo">Mind<span>Spark</span></h1>
+
+    <form action="/select" method="get">
+      <button type="submit" class="start-btn">START</button>
+    </form>
+  </div>
+</body>
+</html>

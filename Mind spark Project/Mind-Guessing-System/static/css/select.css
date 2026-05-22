@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  height: 100vh;
+  background: linear-gradient(160deg, #0f0f1a, #1d0e33);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+/* Center container */
+.container {
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+
+/* Logo (same as index.html) */
+.logo {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #00ffff;
+  text-shadow: 0 0 4px rgba(0,255,255,0.7), 0 0 6px rgba(192,0,255,0.6);
+  margin-bottom: 40px;
+}
+
+.logo span {
+  color: #c000ff;
+}
+
+/* Main layout (Genie + Categories) */
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* Genie Section */
+.genie-section {
+  position: relative;
+}
+.genie-img {
+  width: 340px;              /* increased from 260px */
+  max-width: 70vw;           /* allows a bit more width flexibility */
+  filter: drop-shadow(0 0 35px rgba(192,0,255,0.9));
+  transform: scaleX(-1);
+}
+
+
+/* Speech bubble */
+.speech {
+  position: absolute;
+  top: 10%;
+  left: 230px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 12px 18px;
+  max-width: 200px;
+  font-size: 0.95rem;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 0 15px rgba(0,255,255,0.3);
+}
+
+.speech p {
+  margin: 0;
+  color: #fff;
+  font-weight: 500;
+}
+
+/* Category box */
+.category-box {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 15px;
+  padding: 40px 30px;
+  box-shadow: 0 0 20px rgba(0,255,255,0.3);
+  backdrop-filter: blur(10px);
+  min-width: 250px;
+}
+
+/* Category buttons */
+.category-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.category-btn {
+  padding: 12px 25px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 0 10px rgba(0,255,255,0.3);
+}
+
+.category-btn:hover {
+  background: linear-gradient(90deg, #00ffff, #c000ff);
+  transform: scale(1.05);
+  box-shadow: 0 0 25px rgba(192,0,255,0.7);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .logo {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+
+  .content {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .speech {
+    position: static;
+    margin-top: 10px;
+    max-width: 100%;
+  }
+
+  /* .genie-img {
+    width: 180px;
+  } */
+
+  .category-box {
+    padding: 25px 20px;
+    width: 80%;
+  }
+
+  .category-btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #00ffff;
+  margin-bottom: 25px;
+  text-shadow: 0 0 6px rgba(0,255,255,0.6);
+}

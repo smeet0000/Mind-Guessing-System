@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Guess | MindSpark</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/guess.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1 class="logo">Mind<span>Spark</span></h1>
+
+    <div class="content">
+      <!-- Genie -->
+      <div class="genie-section">
+        <img src="{{ url_for('static', filename='images/idle.png') }}" alt="Genie" class="genie-img">
+      </div>
+
+      <!-- Guess Box -->
+      <div class="guess-box">
+        {% if guess %}
+          <h2 class="guess-text">I guess you are thinking of...</h2>
+
+          {% if img %}
+            <div class="guess-img-box">
+              <img src="{{ img }}" alt="{{ guess }}" class="guess-img">
+            </div>
+          {% endif %}
+
+          <h3 class="guess-name">{{ guess }}</h3>
+
+          <form action="/guess" method="POST" class="guess-form">
+            <button type="submit" name="correct" value="yes" class="btn yes">
+              <span>👍</span> Yes
+            </button>
+            <button type="submit" name="correct" value="no" class="btn no">
+              <span>👎</span> No
+            </button>
+          </form>
+
+        {% else %}
+          <h3 class="no-guess">Sorry, I couldn’t guess anything 😢</h3>
+          <a href="/" class="play-again">Play again</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+

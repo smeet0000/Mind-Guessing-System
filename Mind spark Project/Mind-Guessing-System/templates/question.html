@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Question {{ num }} | MindSpark</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/question.css') }}">
+
+
+
+</head>
+<body>
+
+<!-- LEFT SIDE TRANSLATOR -->
+<!-- <div class="translator-panel">
+  <h3>English ➜ Gujarati</h3>
+
+  <textarea id="engInput" placeholder="Type English text..."></textarea>
+
+  <button onclick="translateToGujarati()">Translate</button>
+
+  <div class="output-box" id="engOutput">Gujarati translation will appear here...</div>
+</div> -->
+
+
+
+  <div class="container">
+    <!-- MindSpark Logo -->
+    <h1 class="logo">Mind<span>Spark</span></h1>
+
+    <div class="content">
+      <!-- Genie -->
+      <div class="genie-section">
+        <img src="{{ url_for('static', filename='images/think.png') }}" alt="Genie" class="genie-img">
+      </div>
+
+      <!-- Question Box -->
+      <div class="question-box">
+        <h2 class="question-number">Question {{ num }}</h2>
+        <p class="question-text">{{ question }}</p>
+
+        <form action="/answer" method="POST" class="answer-form">
+
+          <button type="submit" name="answer" value="yes" class="answer-btn yes">
+            <span style="color: #00ff00;">✔</span> Yes
+          </button>
+
+          <button type="submit" name="answer" value="no" class="answer-btn no">
+            <span style="color: #ff0000;">✖</span> No
+          </button>
+
+          <button type="submit" name="answer" value="maybe" class="answer-btn maybe">
+            <span style="color: #00bfff;">❓</span> Don’t Know
+          </button>
+
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+  <script>
+  function translateToGujarati() {
+    let text = document.getElementById("engInput").value;
+    let output = document.getElementById("engOutput");
+
+    if (text.trim() === "") {
+      output.innerHTML = "Please type text.";
+      return;
+    }
+
+    output.innerHTML = "Translating...";
+
+    fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|gu`)
+      .then(res => res.json())
+      .then(data => {
+        output.innerHTML = data.responseData.translatedText || "Translation failed.";
+      })
+      .catch(() => {
+        output.innerHTML = "Error occurred.";
+      });
+  }
+</script>
+
+
+</body>
+</html>

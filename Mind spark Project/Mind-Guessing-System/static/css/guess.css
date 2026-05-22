@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(160deg, #0f0f1a, #1d0e33);
+  color: #fff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container */
+.container {
+  text-align: center;
+  width: 100%;
+}
+
+/* Logo */
+.logo {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #00ffff;
+  text-shadow: 0 0 6px rgba(0,255,255,0.7), 0 0 10px rgba(192,0,255,0.6);
+  margin-bottom: 30px;
+}
+.logo span { color: #c000ff; }
+
+/* Layout */
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+/* Genie */
+
+ .genie-img {
+    width: 340px;              /* increased from 260px */
+  max-width: 70vw;           /* allows a bit more width flexibility */
+  filter: drop-shadow(0 0 35px rgba(192,0,255,0.9));
+  transform: scaleX(-1); /* flips horizontally */
+}
+
+/* Guess Box */
+.guess-box {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 20px;
+  padding: 40px 35px;
+  box-shadow: 0 0 25px rgba(0,255,255,0.3);
+  backdrop-filter: blur(12px);
+  text-align: center;
+  width: 320px;
+}
+
+.guess-text {
+  font-size: 1.2rem;
+  color: #00ffff;
+  margin-bottom: 20px;
+}
+
+.guess-img-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.guess-img {
+  width: 160px; /* bigger size */
+  height: 190px; /* make it square */
+  object-fit: fill; /* crop neatly */
+
+  border: 2px solid white;
+  box-shadow: 0 0 15px rgba(255,255,255,0.3);
+
+}
+
+
+.guess-name {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+/* Buttons */
+.guess-form {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 25px;
+}
+
+.btn {
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.btn.yes {
+  background: rgba(0, 255, 0, 0.2);
+  color: #00ff88;
+  box-shadow: 0 0 10px rgba(0,255,0,0.6);
+}
+.btn.no {
+  background: rgba(255, 0, 0, 0.2);
+  color: #ff5555;
+  box-shadow: 0 0 10px rgba(255,0,0,0.6);
+}
+
+.btn:hover { transform: scale(1.08); }
+
+.reveal-btn {
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.2);
+  padding: 10px 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.25s ease;
+}
+.reveal-btn:hover {
+  background: linear-gradient(90deg, #00ffff, #c000ff);
+  box-shadow: 0 0 20px rgba(192,0,255,0.7);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .content { flex-direction: column; gap: 25px; }
+  .genie-img { width: 220px; }
+  .guess-box { width: 80%; padding: 25px 20px; }
+}

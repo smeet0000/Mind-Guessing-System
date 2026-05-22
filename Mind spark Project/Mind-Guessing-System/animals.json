@@ -1,0 +1,1871 @@
+[
+    {
+        "name": "Tiger",
+        "attrs": [
+            "mammal",
+            "four_legs",
+            "striped",
+            "orange_black",
+            "roars",
+            "solitary",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Lion",
+        "attrs": [
+            "mammal",
+            "four_legs",
+            "diurnal",
+            "roars",
+            "social",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Elephant",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "four_legs",
+            "long_lived",
+            "trunk",
+            "long_tusks",
+            "social",
+            "wild"
+        ]
+    },
+    {
+        "name": "Dog",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "domestic",
+            "pet",
+            "barks",
+            "guarding",
+            "four_legs",
+            "social",
+            "carnivore"
+        ]
+    },
+    {
+        "name": "Cat",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "domestic",
+            "pet",
+            "four_legs",
+            "meows",
+            "agile",
+            "social"
+        ]
+    },
+    {
+        "name": "Horse",
+        "attrs": [
+            "mammal",
+            "pet",
+            "herbivore",
+            "four_legs",
+            "domestic",
+            "rideable",
+            "farm",
+            "fast",
+            "solitary"
+        ]
+    },
+    {
+        "name": "Cow",
+        "attrs": [
+            "mammal",
+            "pet",
+            "herbivore",
+            "four_legs",
+            "domestic",
+            "farm",
+            "milk_producer",
+            "docile",
+            "ruminant",
+            "social"
+        ]
+    },
+    {
+        "name": "Goat",
+        "attrs": [
+            "mammal",
+            "pet",
+            "herbivore",
+            "four_legs",
+            "domestic",
+            "farm",
+            "mountain",
+            "nibbles",
+            "milk_producer",
+            "social"
+        ]
+    },
+    {
+        "name": "Sheep",
+        "attrs": [
+            "mammal",
+            "pet",
+            "herbivore",
+            "domestic",
+            "farm",
+            "mountain",
+            "four_legs",
+            "wool",
+            "flock",
+            "grazer",
+            "social"
+        ]
+    },
+    {
+        "name": "Rabbit",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "domestic",
+            "pet",
+            "long_ears",
+            "four_legs",
+            "timid",
+            "reproduces_fast",
+            "solitary"
+        ]
+    },
+    {
+        "name": "Deer",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "wild",
+            "shy",
+            "four_legs",
+            "antlers_male",
+            "ruminant",
+            "social"
+        ]
+    },
+    {
+        "name": "Monkey",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "wild",
+            "intelligent",
+            "tool_user",
+            "playful",
+            "social",
+            "two_legs",
+            "two_arms"
+        ]
+    },
+    {
+        "name": "Bear",
+        "attrs": [
+            "mammal",
+            "four_legs",
+            "omnivore",
+            "wild",
+            "hibernates",
+            "claws",
+            "social"
+        ]
+    },
+    {
+        "name": "Fox",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "wild",
+            "four_legs",
+            "smart",
+            "stealthy",
+            "solitary"
+        ]
+    },
+    {
+        "name": "Wolf",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "wild",
+            "four_legs",
+            "howls",
+            "cooperative_hunter",
+            "territorial",
+            "social"
+        ]
+    },
+    {
+        "name": "Leopard",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "wild",
+            "four_legs",
+            "spotted",
+            "climber",
+            "solitary"
+        ]
+    },
+    {
+        "name": "Cheetah",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "wild",
+            "diurnal",
+            "fast",
+            "slender",
+            "tail_for_balance",
+            "solitary",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Zebra",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "wild",
+            "striped",
+            "migratory",
+            "social",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Giraffe",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "wild",
+            "long_neck",
+            "very_tall",
+            "leaf_eater",
+            "social",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Camel",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "domestic",
+            "hump_store_fat",
+            "drought_resistant",
+            "pack",
+            "social",
+            "four_legs",
+            "pet"
+        ]
+    },
+    {
+        "name": "Donkey",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "domestic",
+            "farm",
+            "bray_sound",
+            "pack",
+            "sturdy",
+            "social",
+            "four_legs",
+            "pet"
+        ]
+    },
+    {
+        "name": "Buffalo",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "domestic",
+            "farm",
+            "horns",
+            "dairy_use",
+            "draft_animal",
+            "social",
+            "four_legs",
+            "pet"
+        ]
+    },
+    {
+        "name": "Pig",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "domestic",
+            "farm",
+            "rooting_behavior",
+            "meat_source",
+            "short_snout",
+            "social",
+            "four_legs",
+            "pet"
+        ]
+    },
+    {
+        "name": "Hen",
+        "attrs": [
+            "bird",
+            "omnivore",
+            "domestic",
+            "farm",
+            "lays_eggs",
+            "clucks",
+            "broody_possible",
+            "social",
+            "two_legs",
+            "flying",
+            "pet"
+        ]
+    },
+    {
+        "name": "Duck",
+        "attrs": [
+            "bird",
+            "omnivore",
+            "aquatic",
+            "webbed_feet",
+            "quacks",
+            "pond_dweller",
+            "social",
+            "two_legs",
+            "domestic",
+            "flying"
+        ]
+    },
+    {
+        "name": "Peacock",
+        "attrs": [
+            "bird",
+            "wild",
+            "colorful",
+            "display_fan",
+            "terraced_calls",
+            "social",
+            "two_legs",
+            "flying"
+        ]
+    },
+    {
+        "name": "Parrot",
+        "attrs": [
+            "bird",
+            "pet",
+            "intelligent",
+            "talks_mimicry",
+            "long_lived",
+            "beak",
+            "social",
+            "two_legs",
+            "omnivore",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Crow",
+        "attrs": [
+            "bird",
+            "omnivore",
+            "urban",
+            "intelligent",
+            "caws",
+            "adaptable",
+            "social",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Pigeon",
+        "attrs": [
+            "bird",
+            "urban",
+            "homing_ability",
+            "coos",
+            "rock_dove",
+            "social",
+            "two_legs",
+            "omnivore",
+            "domestic",
+            "flying",
+            "pet"
+        ]
+    },
+    {
+        "name": "Sparrow",
+        "attrs": [
+            "bird",
+            "urban",
+            "chirps",
+            "perches_near_humans",
+            "seed_eater",
+            "social",
+            "two_legs",
+            "omnivore",
+            "wild",
+            "flying",
+            "pet"
+        ]
+    },
+    {
+        "name": "Eagle",
+        "attrs": [
+            "bird",
+            "carnivore",
+            "talons",
+            "sharp_vision",
+            "pair_bonded",
+            "solitary",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Owl",
+        "attrs": [
+            "bird",
+            "nocturnal",
+            "silent_flight",
+            "rotating_head",
+            "large_eyes",
+            "solitary",
+            "two_legs",
+            "carnivore",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Penguin",
+        "attrs": [
+            "bird",
+            "aquatic",
+            "cold_adapted",
+            "flightless",
+            "waddles",
+            "antarctic",
+            "social",
+            "two_legs",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Dolphin",
+        "attrs": [
+            "mammal",
+            "aquatic",
+            "intelligent",
+            "echolocation",
+            "friendly_appearance",
+            "social",
+            "no_legs",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Shark",
+        "attrs": [
+            "fish",
+            "carnivore",
+            "marine",
+            "cartilaginous",
+            "senses_vibrations",
+            "oceanic",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Whale",
+        "attrs": [
+            "mammal",
+            "aquatic",
+            "marine",
+            "songful_some",
+            "filter_feeder",
+            "social",
+            "no_legs",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Octopus",
+        "attrs": [
+            "invertebrate",
+            "aquatic",
+            "intelligent",
+            "eight_arms",
+            "ink_squirts",
+            "soft_body",
+            "solitary",
+            "eight_legs",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Crab",
+        "attrs": [
+            "invertebrate",
+            "aquatic",
+            "hard_exoskeleton",
+            "claws",
+            "sideways_walk",
+            "coastal",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Frog",
+        "attrs": [
+            "amphibian",
+            "carnivore",
+            "jumps",
+            "metamorphosis",
+            "calls",
+            "moist_skin",
+            "wild"
+        ]
+    },
+    {
+        "name": "Snake",
+        "attrs": [
+            "reptile",
+            "carnivore",
+            "cold_blooded",
+            "no_legs",
+            "slithers",
+            "venomous",
+            "solitary",
+            "wild",
+            "pet"
+        ]
+    },
+    {
+        "name": "Crocodile",
+        "attrs": [
+            "reptile",
+            "carnivore",
+            "cold_blooded",
+            "powerful_jaws",
+            "tail",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Turtle",
+        "attrs": [
+            "reptile",
+            "cold_blooded",
+            "shell",
+            "slow",
+            "retracts_head",
+            "scutes_on_shell",
+            "solitary",
+            "herbivore",
+            "wild",
+            "pet"
+        ]
+    },
+    {
+        "name": "Lizard",
+        "attrs": [
+            "reptile",
+            "cold_blooded",
+            "fast",
+            "basks_in_sun",
+            "tail",
+            "solitary",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Butterfly",
+        "attrs": [
+            "insect",
+            "diurnal",
+            "wings",
+            "colorful",
+            "nectar_feeder",
+            "fragile",
+            "solitary",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Bee",
+        "attrs": [
+            "insect",
+            "stinger",
+            "makes_honey",
+            "collects_pollen",
+            "important_for_crops",
+            "social",
+            "domestic",
+            "flying"
+        ]
+    },
+    {
+        "name": "Ant",
+        "attrs": [
+            "insect",
+            "many_workers",
+            "colony",
+            "strong",
+            "social",
+            "omnivore",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Mosquito",
+        "attrs": [
+            "insect",
+            "flying",
+            "annoying",
+            "needle_like_mouth",
+            "disease_vector",
+            "solitary",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Fly",
+        "attrs": [
+            "insect",
+            "flying",
+            "annoying",
+            "compound_eyes",
+            "feeds_on_organic_matter",
+            "solitary",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Spider",
+        "attrs": [
+            "arachnid",
+            "invertebrate",
+            "eight_legs",
+            "silk_producer",
+            "web_builder",
+            "venomous",
+            "solitary",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Scorpion",
+        "attrs": [
+            "arachnid",
+            "invertebrate",
+            "eight_legs",
+            "venomous",
+            "stinger",
+            "pinchers",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Snail",
+        "attrs": [
+            "mollusk",
+            "herbivore",
+            "shell",
+            "slow",
+            "no_legs",
+            "slime_trail",
+            "solitary",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Kangaroo",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "marsupial",
+            "australia",
+            "hopper",
+            "pouch_female",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Koala",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "marsupial",
+            "australia",
+            "eucalyptus_eater",
+            "tree_dweller",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Panda",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "endangered",
+            "black_white",
+            "bamboo_eater",
+            "gentle",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Rhinoceros",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "endangered",
+            "horns",
+            "thick_skin",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Hippopotamus",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "aggressive",
+            "semi_aquatic",
+            "grazes_night",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Chimpanzee",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "intelligent",
+            "tool_user",
+            "learns_behaviors",
+            "black_hair",
+            "social",
+            "two_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Gorilla",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "intelligent",
+            "endangered",
+            "peaceful",
+            "social",
+            "two_legs",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Hyena",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "nocturnal",
+            "scavenger",
+            "laughing_call",
+            "strong_jaws",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Jaguar",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "wild",
+            "rainforest",
+            "swimmer",
+            "solitary",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Cougar",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "wild",
+            "large_cat",
+            "stalks_prey",
+            "territorial",
+            "solitary",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Bison",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "wild",
+            "horns",
+            "grassland",
+            "social",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Moose",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "wild",
+            "tall",
+            "large_antlers_male",
+            "cold_regions",
+            "solitary",
+            "four_legs",
+            "pet"
+        ]
+    },
+    {
+        "name": "Reindeer",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "domestic",
+            "cold_adapted",
+            "antlers_both_sexes",
+            "tundra",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Polar Bear",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "wild",
+            "arctic",
+            "white_fur",
+            "marine",
+            "endangered",
+            "solitary",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Seal",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "aquatic",
+            "marine",
+            "flippers",
+            "dives_deep",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Walrus",
+        "attrs": [
+            "mammal",
+            "marine",
+            "arctic",
+            "long_tusks",
+            "mollusk_eater",
+            "fat_layer",
+            "solitary",
+            "four_legs",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Sea Lion",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "marine",
+            "intelligent",
+            "barks",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Orangutan",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "intelligent",
+            "arboreal",
+            "long_arms",
+            "orange_hair",
+            "social",
+            "four_legs",
+            "two_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Sloth",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "slow",
+            "nocturnal",
+            "hangs_upside_down",
+            "sleepy",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Armadillo",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "nocturnal",
+            "armored_shell",
+            "digging_claws",
+            "insect_eater",
+            "solitary",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Porcupine",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "rodent_family",
+            "spines",
+            "defensive",
+            "tree_climber",
+            "solitary",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Beaver",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "rodent",
+            "semi_aquatic",
+            "dam_builder",
+            "gnaws_wood",
+            "flat_tail",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Otter",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "aquatic",
+            "playful",
+            "webbed_feet",
+            "fish_eater",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Raccoon",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "nocturnal",
+            "intelligent",
+            "masked_face",
+            "forager",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Skunk",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "striped",
+            "sprays_defense",
+            "black_white",
+            "solitary",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Hedgehog",
+        "attrs": [
+            "mammal",
+            "nocturnal",
+            "spiny",
+            "rolls_into_ball",
+            "insect_eater",
+            "solitary",
+            "four_legs",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Bat",
+        "attrs": [
+            "mammal",
+            "nocturnal",
+            "flying",
+            "echolocation",
+            "roosts_in_caves",
+            "social",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Camel Spider",
+        "attrs": [
+            "arachnid",
+            "invertebrate",
+            "eight_legs",
+            "desert",
+            "scary_appearance",
+            "no_venom",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Mole",
+        "attrs": [
+            "mammal",
+            "burrower",
+            "blind",
+            "sensitive_nose",
+            "solitary",
+            "four_legs",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Squirrel",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "diurnal",
+            "bushy_tail",
+            "food_hoarder",
+            "social",
+            "four_legs",
+            "herbivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Chipmunk",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "cute",
+            "stripes_on_back",
+            "hoards_food",
+            "solitary",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Hamster",
+        "attrs": [
+            "mammal",
+            "omnivore",
+            "domestic",
+            "pet",
+            "rodent",
+            "runs_in_wheel",
+            "short_tail",
+            "social",
+            "four_legs"
+        ]
+    },
+    {
+        "name": "Parakeet",
+        "attrs": [
+            "bird",
+            "domestic",
+            "pet",
+            "colorful",
+            "talkative_some",
+            "seed_eater",
+            "social",
+            "omnivore",
+            "flying"
+        ]
+    },
+    {
+        "name": "Swan",
+        "attrs": [
+            "bird",
+            "aquatic",
+            "white",
+            "long_neck",
+            "graceful",
+            "pair_bonded",
+            "social",
+            "two_legs",
+            "domestic",
+            "flying"
+        ]
+    },
+    {
+        "name": "Goose",
+        "attrs": [
+            "bird",
+            "aquatic",
+            "herbivore",
+            "migratory",
+            "honking_sound",
+            "grazing",
+            "social",
+            "two_legs",
+            "omnivore",
+            "domestic",
+            "flying"
+        ]
+    },
+    {
+        "name": "Turkey",
+        "attrs": [
+            "bird",
+            "omnivore",
+            "domestic",
+            "farm",
+            "colorful",
+            "gobbles",
+            "fan_tail",
+            "social",
+            "two_legs",
+            "flying"
+        ]
+    },
+    {
+        "name": "Flamingo",
+        "attrs": [
+            "bird",
+            "herbivore",
+            "aquatic",
+            "pink",
+            "one_leg_stance",
+            "filter_feeder",
+            "social",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Pelican",
+        "attrs": [
+            "bird",
+            "aquatic",
+            "fish_eater",
+            "large_beak",
+            "coastal",
+            "social",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Seagull",
+        "attrs": [
+            "bird",
+            "omnivore",
+            "coastal",
+            "scavenger",
+            "loud_calls",
+            "adaptable",
+            "social",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Woodpecker",
+        "attrs": [
+            "bird",
+            "insect_eater",
+            "drumming_sound",
+            "long_beak",
+            "pecks_wood",
+            "social",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Kingfisher",
+        "attrs": [
+            "bird",
+            "aquatic",
+            "fish_eater",
+            "colorful",
+            "fast_dive",
+            "sharp_beak",
+            "social",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Vulture",
+        "attrs": [
+            "bird",
+            "carnivore",
+            "scavenger",
+            "bald_head",
+            "important_cleaner",
+            "social",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Hawk",
+        "attrs": [
+            "bird",
+            "carnivore",
+            "fast",
+            "talons",
+            "solitary",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Falcon",
+        "attrs": [
+            "bird",
+            "carnivore",
+            "fast",
+            "dives_high_speed",
+            "sharp_talons",
+            "solitary",
+            "two_legs",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Walnut Crab",
+        "attrs": [
+            "invertebrate",
+            "aquatic",
+            "crustacean",
+            "omnivore",
+            "hard_exoskeleton",
+            "burrower",
+            "wild"
+        ]
+    },
+    {
+        "name": "Sea Urchin",
+        "attrs": [
+            "echinoderm",
+            "marine",
+            "slow",
+            "spiny",
+            "radial_symmetry",
+            "grazer_algae",
+            "solitary",
+            "no_legs",
+            "herbivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Jellyfish",
+        "attrs": [
+            "cnidarian",
+            "marine",
+            "soft_body",
+            "stings",
+            "gelatinous",
+            "drifts_current",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Starfish",
+        "attrs": [
+            "echinoderm",
+            "marine",
+            "slow",
+            "five_arms_common",
+            "regenerates_arms",
+            "tube_feet",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Clownfish",
+        "attrs": [
+            "fish",
+            "marine",
+            "colorful",
+            "protected_by_anemone",
+            "symbiotic_with_anemone",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Angelfish",
+        "attrs": [
+            "fish",
+            "marine",
+            "colorful",
+            "reef_hides",
+            "laterally_flat",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Lionfish",
+        "attrs": [
+            "fish",
+            "marine",
+            "carnivore",
+            "venomous",
+            "striped",
+            "colorful",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Manta Ray",
+        "attrs": [
+            "fish",
+            "marine",
+            "flat_body",
+            "filter_feeder",
+            "swims",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Squid",
+        "attrs": [
+            "invertebrate",
+            "aquatic",
+            "carnivore",
+            "fast",
+            "jet_propulsion",
+            "solitary",
+            "eight_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Lobster",
+        "attrs": [
+            "invertebrate",
+            "aquatic",
+            "claws",
+            "crustacean",
+            "long_lived",
+            "benthic",
+            "burrower",
+            "solitary",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Crayfish",
+        "attrs": [
+            "invertebrate",
+            "aquatic",
+            "claws",
+            "crustacean",
+            "freshwater",
+            "fast",
+            "soft_underbody",
+            "solitary",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Hermit Crab",
+        "attrs": [
+            "invertebrate",
+            "aquatic",
+            "crustacean",
+            "omnivore",
+            "mobile_shell",
+            "shell",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Sea Anemone",
+        "attrs": [
+            "cnidarian",
+            "marine",
+            "sessile",
+            "slow",
+            "symbiotic_with_clownfish",
+            "filter_feeder",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Coral",
+        "attrs": [
+            "cnidarian",
+            "marine",
+            "sessile",
+            "reef_builder",
+            "colonial",
+            "slow",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Marine Iguana",
+        "attrs": [
+            "reptile",
+            "herbivore",
+            "marine",
+            "endemic_galapagos",
+            "lava_rock_dweller",
+            "dark_colored",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Sea Otter",
+        "attrs": [
+            "mammal",
+            "carnivore",
+            "marine",
+            "tool_user",
+            "dense_fur",
+            "plays_with_rocks",
+            "social",
+            "four_legs",
+            "omnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Manatee",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "slow",
+            "gentle",
+            "cold_sensitive",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Dugong",
+        "attrs": [
+            "mammal",
+            "herbivore",
+            "slow",
+            "vegetation_feeder",
+            "warm_shallow_waters",
+            "social",
+            "four_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Narwhal",
+        "attrs": [
+            "mammal",
+            "marine",
+            "arctic",
+            "tusk_male",
+            "sonar_communication",
+            "whale",
+            "social",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Beluga Whale",
+        "attrs": [
+            "mammal",
+            "marine",
+            "arctic",
+            "white",
+            "vocal",
+            "friendly_appearance",
+            "social",
+            "carnivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Hammerhead Shark",
+        "attrs": [
+            "fish",
+            "carnivore",
+            "marine",
+            "unique_head",
+            "keen_senses",
+            "schooling",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Great White Shark",
+        "attrs": [
+            "fish",
+            "carnivore",
+            "marine",
+            "powerful_jaws",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Sea Horse",
+        "attrs": [
+            "fish",
+            "marine",
+            "slow",
+            "male_pregnancy",
+            "tail",
+            "social",
+            "herbivore",
+            "wild"
+        ]
+    },
+    {
+        "name": "Pipefish",
+        "attrs": [
+            "fish",
+            "marine",
+            "slow",
+            "male_pregnancy",
+            "slender",
+            "social",
+            "wild"
+        ]
+    },
+    {
+        "name": "Moray Eel",
+        "attrs": [
+            "fish",
+            "carnivore",
+            "nocturnal",
+            "long_body",
+            "hides_crevices",
+            "flexible_jaws",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Electric Eel",
+        "attrs": [
+            "fish",
+            "freshwater",
+            "carnivore",
+            "long_body",
+            "electric_shock",
+            "murky_water",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Piranha",
+        "attrs": [
+            "fish",
+            "freshwater",
+            "carnivore",
+            "sharp_teeth",
+            "aggressive",
+            "river",
+            "solitary",
+            "no_legs",
+            "wild"
+        ]
+    },
+    {
+        "name": "Catfish",
+        "attrs": [
+            "fish",
+            "freshwater",
+            "omnivore",
+            "bottom_dweller",
+            "whiskers",
+            "barbels_sense_food",
+            "social",
+            "no_legs",
+            "carnivore",
+            "domestic"
+        ]
+    },
+    {
+        "name": "Tilapia",
+        "attrs": [
+            "fish",
+            "freshwater",
+            "omnivore",
+            "diurnal",
+            "aquaculture",
+            "fast",
+            "social",
+            "no_legs",
+            "domestic"
+        ]
+    },
+    {
+        "name": "Salmon",
+        "attrs": [
+            "fish",
+            "marine",
+            "carnivore",
+            "migratory",
+            "spawns_freshwater",
+            "pink_flesh",
+            "social",
+            "no_legs",
+            "domestic"
+        ]
+    },
+    {
+        "name": "Trout",
+        "attrs": [
+            "fish",
+            "freshwater",
+            "carnivore",
+            "camouflaged",
+            "river",
+            "social",
+            "no_legs",
+            "domestic"
+        ]
+    },
+    {
+        "name": "Toad",
+        "attrs": [
+            "amphibian",
+            "carnivore",
+            "jumper",
+            "dry_skin",
+            "burrower",
+            "social",
+            "wild"
+        ]
+    },
+    {
+        "name": "Salamander",
+        "attrs": [
+            "amphibian",
+            "carnivore",
+            "nocturnal",
+            "tail",
+            "moist_skin",
+            "wild"
+        ]
+    },
+    {
+        "name": "Newt",
+        "attrs": [
+            "amphibian",
+            "carnivore",
+            "nocturnal",
+            "tail",
+            "semi_aquatic",
+            "wild"
+        ]
+    },
+    {
+        "name": "Dragonfly",
+        "attrs": [
+            "insect",
+            "diurnal",
+            "flying",
+            "fast",
+            "large_eyes",
+            "aquatic",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Damselfly",
+        "attrs": [
+            "insect",
+            "diurnal",
+            "flying",
+            "delicate_wings",
+            "slender_body",
+            "solitary",
+            "wild"
+        ]
+    },
+    {
+        "name": "Grasshopper",
+        "attrs": [
+            "insect",
+            "herbivore",
+            "jumper",
+            "long_hind_legs",
+            "sound_produces_rubs",
+            "solitary",
+            "omnivore",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Cricket",
+        "attrs": [
+            "insect",
+            "omnivore",
+            "nocturnal",
+            "jumper",
+            "chirps_sound",
+            "long_antennae",
+            "solitary",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Cockroach",
+        "attrs": [
+            "insect",
+            "omnivore",
+            "nocturnal",
+            "fast",
+            "flat_body",
+            "resilient",
+            "solitary",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Beetle",
+        "attrs": [
+            "insect",
+            "omnivore",
+            "diurnal",
+            "hard_exoskeleton",
+            "wings",
+            "chews_food",
+            "solitary",
+            "wild",
+            "flying"
+        ]
+    },
+    {
+        "name": "Fish",
+        "attrs": [
+            "fish",
+            "aquatic",
+            "cold_blooded",
+            "vertebrate",
+            "gills",
+            "fins",
+            "scales",
+            "lays_eggs",
+            "swims",
+            "no_legs",
+            "marine",
+            "streamlined_body",
+            "carnivore"
+        ]
+    }
+]

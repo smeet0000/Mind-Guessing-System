@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Result | MindSpark</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/result.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1 class="logo">Mind<span>Spark</span></h1>
+
+    <div class="content">
+      <!-- Genie -->
+      <div class="genie-section">
+        {% if correct %}
+          <img src="{{ url_for('static', filename='images/happy.png') }}" alt="Happy Genie" class="genie-img">
+        {% else %}
+          <img src="{{ url_for('static', filename='images/sad.png') }}" alt="Sad Genie" class="genie-img">
+        {% endif %}
+      </div>
+
+      <!-- Result Box -->
+      <div class="result-box">
+        {% if correct %}
+          <h2 class="success">🎉 Yay! I guessed it right — <span class="guesstext">{{ guess }}</span></h2>
+         <a href="/select" class="play-btn"><span>⋄⋄</span> Play again <span>⋄⋄</span></a>
+
+        {% else %}
+          <h2 class="fail">😔 I couldn't guess it correctly.</h2>
+          {% if guess %}
+            <p class="wrong-guess">My wrong guess was: <strong>{{ guess }}</strong></p>
+          {% endif %}
+
+          <form id="correctionForm" action="/guess" method="POST" class="correction-form">
+            <label>What was the correct answer?</label>
+            <input type="text" name="real_name" required>
+
+            <label>Any special feature of your item? (optional)</label>
+            <input type="text" name="special_feature">
+
+            <button type="submit" name="correct" value="no" class="submit-btn">Submit</button>
+          </form>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript for alert + redirect -->
+  <script>
+    const form = document.getElementById('correctionForm');
+    if (form) {
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+
+        fetch(form.action, {
+          method: form.method,
+          body: new FormData(form)
+        }).then(response => {
+          if (response.ok) {
+            alert("✅ Submitted successfully! 🎉\n\nThanks for your feedback!");
+
+            window.location.href = "/";
+          } else {
+            alert("⚠ Something went wrong. Please try again.");
+          }
+        }).catch(() => {
+          alert("⚠ Network error. Please try again.");
+        });
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(160deg, #0f0f1a, #1d0e33);
+  color: #fff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+/* Container */
+.container {
+  text-align: center;
+  width: 100%;
+}
+
+/* MindSpark logo (same style as index/select) */
+.logo {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #00ffff;
+  text-shadow: 0 0 4px rgba(0,255,255,0.7), 0 0 6px rgba(192,0,255,0.6);
+  margin-bottom: 30px;
+}
+
+.logo span {
+  color: #c000ff;
+}
+
+/* Main layout */
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* Genie styling */
+.genie-section {
+  position: relative;
+}
+
+/* .genie-img {
+  width: 260px;
+  max-width: 60vw;
+  filter: drop-shadow(0 0 25px rgba(0,255,255,0.7));
+} */
+
+.genie-img {
+  width: 340px;              /* increased from 260px */
+  max-width: 70vw;           /* allows a bit more width flexibility */
+  filter: drop-shadow(0 0 35px rgba(192,0,255,0.9));
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+
+/* Question box styling */
+.question-box {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 20px;
+  padding: 40px 35px;
+  box-shadow: 0 0 25px rgba(0,255,255,0.3);
+  backdrop-filter: blur(12px);
+  text-align: center;
+  min-width: 300px;
+  max-width: 400px;
+}
+
+/* Question title */
+.question-number {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #00ffff;
+  margin-bottom: 15px;
+  text-shadow: 0 0 5px rgba(0,255,255,0.6);
+}
+
+.question-text {
+  font-size: 1.1rem;
+  margin-bottom: 25px;
+  line-height: 1.4;
+  color: #fff;
+
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  max-width: 320px;
+  text-align: center;
+}
+
+/* Answer buttons */
+.answer-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.answer-btn {
+  padding: 12px 25px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 0 10px rgba(0,255,255,0.3);
+}
+
+.answer-btn:hover {
+  background: linear-gradient(90deg, #00ffff, #c000ff);
+  transform: scale(1.05);
+  box-shadow: 0 0 25px rgba(192,0,255,0.7);
+}
+
+
+.translator-panel {
+  position: absolute;
+  left: 15px;
+  top: 15px;
+  width: 150px;
+  padding: 12px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.4);
+  color: #fff;
+}
+
+.translator-panel h3 {
+  margin: 0 0 10px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #00ffff;
+  text-shadow: 0 0 5px rgba(0,255,255,0.6);
+  text-align: center;
+}
+
+.translator-panel textarea {
+  width: 90%;
+  height: 50px;
+  resize: none;
+  border-radius: 10px;
+  border: none;
+  padding: 6px;
+  font-size: 0.8rem;
+  font-family: inherit;
+  outline: none;
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+}
+
+.translator-panel button {
+  margin-top: 8px;
+  width: 100%;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: linear-gradient(90deg, #00ffff, #c000ff);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: 0.3s ease;
+}
+
+.translator-panel button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(192,0,255,0.7);
+}
+
+.output-box {
+  margin-top: 10px;
+  padding: 6px;
+  height: 50px;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(8px);
+  font-size: 0.8rem;
+  color: #bffcff;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .logo {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+
+  .content {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .genie-img {
+    width: 180px;
+  }
+
+  .question-box {
+    width: 50%;
+    padding: 25px 20px;
+  }
+
+  .question-text {
+    font-size: 1rem;
+  }
+
+  .answer-btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+   .translator-panel {
+    display: none;
+  }
+  
+}

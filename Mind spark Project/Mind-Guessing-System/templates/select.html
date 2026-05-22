@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Select Category | MindSpark</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/select.css') }}">
+</head>
+<body>
+  <div class="container">
+
+    <!-- MindSpark Logo -->
+    <h1 class="logo">Mind<span>Spark</span></h1>
+
+    <div class="content">
+        <!-- Genie Section -->
+      <div class="genie-section">
+        <img src="{{ url_for('static', filename='images/idle.png') }}" alt="Genie" class="genie-img">
+        </div>
+
+      <!-- Category Selection -->
+      <div class="category-box">
+          <h1 class="title">Select Category</h2>
+        <form action="/start" method="POST" class="category-form">
+          <button type="submit" name="category" value="characters" class="category-btn">Characters</button>
+          <button type="submit" name="category" value="objects" class="category-btn">Objects</button>
+          <button type="submit" name="category" value="animals" class="category-btn">Animals</button>
+        </form>
+      </div>
+
+     
+    </div>
+      
+
+  </div>
+</body>
+</html>
